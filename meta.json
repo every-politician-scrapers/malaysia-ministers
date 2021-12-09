@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Malaysia",
+      "id": "Q833"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q108168800",
+      "start": "2021-08-21",
+      "parent": "Q846488"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.kabinet.gov.my/bkpp/index.php/anggota-pentadbiran/menteri",
+        "title": "AHLI-AHLI JEMAAH MENTERI",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "ms",
+            "wikidata": "Q9237"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/malaysia-ministers"
 }
