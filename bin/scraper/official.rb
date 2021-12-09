@@ -7,17 +7,17 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('b').text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.xpath('.//text()').map(&:text).select { |txt| txt.include? 'Menteri' }.first.tidy.delete_suffix(',')
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.box')
     end
   end
 end
