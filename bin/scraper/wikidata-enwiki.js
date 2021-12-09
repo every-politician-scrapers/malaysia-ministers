@@ -5,7 +5,7 @@ let meta = JSON.parse(rawmeta);
 module.exports = function () {
   return `SELECT DISTINCT (STRAFTER(STR(?item), STR(wd:)) AS ?wdid)
                ?name ?wdLabel ?source ?sourceDate
-               (STRAFTER(STR(?positionItem), STR(wd:)) AS ?pid) ?position
+               (STRAFTER(STR(?positionItem), STR(wd:)) AS ?pid) ?position ?start
                (STRAFTER(STR(?held), '/statement/') AS ?psid)
         WHERE {
           # Positions currently in the cabinet

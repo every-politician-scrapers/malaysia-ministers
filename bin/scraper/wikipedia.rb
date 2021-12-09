@@ -61,6 +61,10 @@ class Officeholder < Scraped::HTML
     tds[0].text.tidy
   end
 
+  field :start do
+    Date.parse(tds[5].text)
+  end
+
   private
 
   def tds
