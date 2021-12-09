@@ -22,12 +22,10 @@ jobs:
       run: |-
         curl -L https://github.com/jqnatividad/qsv/releases/download/0.20.0/qsv-0.20.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
         sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
-    - name: Scrape official site (mirrored earlier)
-      run: bundle exec ruby bin/scraper/official.rb | ifne tee data/official.csv
-    - name: Get current wikidata list
-      run: bundle exec ruby bin/scraper/wikidata.rb meta.json | sed -e 's/T00:00:00Z//g' | qsv dedup -s psid | ifne tee data/wikidata.csv
-    - name: Generate diff
-      run: bundle exec ruby bin/diff.rb | tee data/diff.csv
+    - name: Compare official site (mirrored earlier) to Wikidata
+      run: bash bin/compare-official.sh
+    - name: Compare enwiki list to Wikidata
+      run: bash bin/compare-enwiki.sh
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3
