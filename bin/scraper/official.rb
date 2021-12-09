@@ -11,6 +11,13 @@ class MemberList
     end
 
     def position
+      # Split senior ministers into two positions
+      raw_position.sub('Menteri Kanan','Menteri Kanan|Menteri Kanan').split('|')
+    end
+
+    private
+
+    def raw_position
       noko.xpath('.//text()').map(&:text).select { |txt| txt.include? 'Menteri' }.first.tidy.delete_suffix(',')
     end
   end
