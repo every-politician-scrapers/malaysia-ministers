@@ -128,6 +128,28 @@
           "template": "marriage"
         },
         {
+          "list": [
+            "Tunku Azizah Aminah Maimunah Iskandariah (m. 1986)",
+            "Julia Rais (m. 1991)"
+          ],
+          "template": "ublist"
+        },
+        {
+          "list": [
+            "Tengku Amir Nasser Ibrahim (adopted)",
+            "Tengku Ahmad Iskandar Shah (deceased)",
+            "Tengku Hassanal Ibrahim Alam Shah",
+            "Tengku Muhammad Iskandar Ri’ayatuddin Shah",
+            "Tengku Ahmad Ismail Mu’adzam Shah",
+            "Tengku Puteri Afzan Aminah Hafidzatullah",
+            "Tengku Puteri Jihan Azizah Athiyatullah",
+            "Tengku Puteri Iman Afzan",
+            "Tengku Puteri Ilisha Ameera",
+            "Tengku Puteri Ilyana"
+          ],
+          "template": "ublist"
+        },
+        {
           "year": "1959",
           "month": "7",
           "day": "30",
@@ -139,6 +161,13 @@
             "MAS"
           ],
           "template": "army"
+        },
+        {
+          "list": [
+            "Royal Armoured Corps",
+            "505th Territorial Army Regiment"
+          ],
+          "template": "ublist"
         },
         {
           "template": "pahang royal family"
@@ -208,24 +237,7 @@
             ]
           },
           "unit": {
-            "text": "Royal Armoured Corps",
-            "links": [
-              {
-                "text": "Royal Armoured Corps",
-                "type": "internal",
-                "page": "Malaysian Royal Armoured Corps"
-              }
-            ]
-          },
-          "[object Object]": {
-            "text": "505th Territorial Army Regiment",
-            "links": [
-              {
-                "text": "Territorial Army Regiment",
-                "type": "internal",
-                "page": "Rejimen Askar Wataniah"
-              }
-            ]
+            "text": "Royal Armoured Corps\n\n505th Territorial Army Regiment"
           }
         },
         {
@@ -359,19 +371,10 @@
             "text": "Tunku Azizah"
           },
           "spouse": {
-            "text": "Tunku Azizah Aminah Maimunah Iskandariah (m. 1986)"
-          },
-          "[object Object]": {
-            "text": "Tengku Puteri Ilyana"
+            "text": "Tunku Azizah Aminah Maimunah Iskandariah (m. 1986)\n\nJulia Rais (m. 1991)"
           },
           "issue": {
-            "text": "Tengku Amir Nasser Ibrahim (adopted)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tengku Amir Nasser Ibrahim"
-              }
-            ]
+            "text": "Tengku Amir Nasser Ibrahim (adopted)\n\nTengku Ahmad Iskandar Shah (deceased)\n\nTengku Hassanal Ibrahim Alam Shah\n\nTengku Muhammad Iskandar Ri’ayatuddin Shah\n\nTengku Ahmad Ismail Mu’adzam Shah\n\nTengku Puteri Afzan Aminah Hafidzatullah\n\nTengku Puteri Jihan Azizah Athiyatullah\n\nTengku Puteri Iman Afzan\n\nTengku Puteri Ilisha Ameera\n\nTengku Puteri Ilyana"
           },
           "house": {
             "text": "Bendahara",
