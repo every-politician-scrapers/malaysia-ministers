@@ -275,6 +275,7 @@
             "Ismail Sabri",
             "Yaakob"
           ],
+          "note": "on",
           "template": "malay name"
         },
         {
@@ -331,7 +332,7 @@
             "text": "File:Perdana Menteri Dato' Sri Ismail.jpg"
           },
           "caption": {
-            "text": "Official portraits, 2021"
+            "text": "Official portrait, 2021"
           },
           "honorific-suffix": {
             "text": "SSAP SPDK DGSM DIMP MP"
