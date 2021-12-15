@@ -23,13 +23,13 @@
         {
           "sentences": [
             {
-              "text": "Dato' Saifuddin bin Abdullah (Jawi: سيف الدين بن عبدالله; born 27 January 1961) is a Malaysian politician who has served as Minister of Foreign Affairs for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Dato' Sri Saifuddin bin Abdullah (Jawi: سيف الدين بن عبدالله; born 27 January 1961) is a Malaysian politician who has served as Minister of Foreign Affairs for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
               "links": [
                 {
-                  "text": "Dato'",
+                  "text": "Dato' Sri",
                   "type": "internal",
                   "page": "Malay titles",
-                  "anchor": "Dato'"
+                  "anchor": "Dato'Sri"
                 },
                 {
                   "text": "Jawi",
@@ -233,7 +233,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Yang Berhormat Dato'",
+            "text": "Yang Berhormat Dato' Sri",
             "links": [
               {
                 "text": "Yang Berhormat",
@@ -242,7 +242,7 @@
                 "anchor": "Honorary styles"
               },
               {
-                "text": "Dato'",
+                "text": "Dato' Sri",
                 "type": "internal",
                 "page": "Malay titles",
                 "anchor": "Dato'"
@@ -256,7 +256,7 @@
             "text": "سيف الدين عبدالله"
           },
           "honorific-suffix": {
-            "text": "DSAP DPMP MP"
+            "text": "SSAP DSAP DPMP MP"
           },
           "image": {
             "text": "Saifuddin Abdullah in 2020.jpg"
@@ -524,7 +524,7 @@
             ]
           },
           "spouse": {
-            "text": "Datin Norlin Shamsul Bahri"
+            "text": "Datin Sri Norlin Shamsul Bahri"
           },
           "children": {
             "text": "1",

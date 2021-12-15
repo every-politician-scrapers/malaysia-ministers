@@ -173,7 +173,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Yang Berhormat Tan Sri Datuk Seri",
+            "text": "Yang Berhormat Tan Sri",
             "links": [
               {
                 "text": "Yang Berhormat",
@@ -186,12 +186,6 @@
                 "type": "internal",
                 "page": "Malay styles and titles",
                 "anchor": "Tan Sri"
-              },
-              {
-                "text": "Datuk Seri",
-                "type": "internal",
-                "page": "Malay styles and titles",
-                "anchor": "State titles"
               }
             ]
           },
