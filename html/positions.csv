@@ -1,0 +1,37 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q174156,Yang di-Pertuan Agong,Q833,Q833,Q109766854,,1957-08-31,,,,Yang di-Pertuan Agong
+Q862559,Prime Minister of Malaysia,Q833,Q833,Q5261073,Q20680067,1957-08-31,,,,Prime Minister of Malaysia
+Q5261073,Deputy Prime Minister of Malaysia,Q833,Q833,,,,,,,Deputy Prime Minister of Malaysia
+Q95461539,Senior minister of Malaysia,Q833,,,,,,,,Senior Minister of Malaysia
+Q30601423,Minister of Agriculture and Food Industries,Q833,Q833,,,,,,,Minister of Agriculture and Food Industries (Malaysia)
+Q30601366,Minister of Communications and Multimedia,,Q833,,,,,,,Minister of Communications and Multimedia (Malaysia)
+Q20449744,Minister of Defence,Q833,Q833,,,,,,,Minister of Defence (Malaysia)
+Q30601373,"Minister of Domestic Trade, Co-operatives and Consumerism",Q833,Q833,,,,,,,Minister of Domestic Trade and Consumer Affairs (Malaysia)
+Q30601368,Minister of Education,Q833,Q833,,,,,,,Minister of Education (Malaysia)
+Q30601441,"Minister of Energy, Green Technology and Water",Q833,Q833,,,1970,,,,"Minister of Energy, Science, Technology, Environment and Climate Change (Malaysia)"
+Q55623237,Minister of Entrepreneur Development (Malaysia),Q833,Q833,,,2018-07-02,,,,Minister of Entrepreneur Development and Cooperative (Malaysia)
+Q106372248,Minister of Environment and Water,Q833,Q833,,,,,,,Minister of Environment and Water (Malaysia)
+Q30601408,Minister of Federal Territories,,Q833,,,1976,,,,Minister of Federal Territories (Malaysia)
+Q25241999,Minister of Finance,Q833,Q833,,,,,,,Minister of Finance (Malaysia)
+Q30601355,Minister of Foreign Affairs,Q833,Q833,,,,,,,Minister of Foreign Affairs (Malaysia)
+Q25212085,Minister of Health,Q833,Q833,Q10728896,,,,,,Minister of Health (Malaysia)
+Q30601405,Minister of Higher Education,Q833,Q833,,,,,,,Minister of Higher Education (Malaysia)
+Q23939417,Minister of Home Affairs,Q833,Q833,,,,,,,Minister of Home Affairs (Malaysia)
+Q30601427,Minister of Human Resources,Q833,Q833,,,,,,,Minister of Human Resources (Malaysia)
+Q25240869,Minister of International Trade and Industry,Q833,Q833,,,,,,,Minister of International Trade and Industry (Malaysia)
+Q30601398,Minister of Natural Resources and Environment,Q833,Q833,,,,,,,Minister of Energy and Natural Resources (Malaysia)
+Q30601432,Minister of Plantation Industries and Commodities,Q833,Q833,,,1972,,,,Ministers of Plantation Industries and Commodities (Malaysia)
+Q30601414,Minister of Rural and Regional Development,Q833,Q833,,,1957,,,,Minister of Rural Development (Malaysia)
+Q30601444,"Minister of Science, Technology and Innovation",,Q833,,,,,,,"Minister of Science, Technology and Innovation (Malaysia)"
+Q25242001,Minister of Tourism and Culture,Q833,Q833,,,1973,,,,"Minister of Tourism, Arts and Culture (Malaysia)"
+Q25242000,Minister of Transport,Q833,Q833,,,,,,,Minister of Transport (Malaysia)
+Q30601375,"Minister of Urban Wellbeing, Housing and Local Government",Q833,Q833,,,,,,,Minister of Housing and Local Government (Malaysia)
+Q30601417,"Minister of Women, Family and Community Development",Q833,Q833,,,,,,,"Minister of Women, Family and Community Development (Malaysia)"
+Q30601411,Minister of Works,Q833,Q833,,,,,,,Minister of Works (Malaysia)
+Q30601401,Minister of Youth and Sports,Q833,Q833,,,,,,,Minister of Youth and Sports (Malaysia)
+Q24949267,Minister in the Prime Minister's Department,Q833,Q833,,,1957-07,,,,Minister in the Prime Minister's Department
+Q4818645,Attorney General of Malaysia,Q833,Q833,,,,,,,Attorney General of Malaysia
+Q107930685,Special Adviser to the Prime Minister of Malaysia,Q833,,,,,,,,
+Q7574262,Speaker of the Dewan Rakyat,Q833,,,,,,,,Speaker of the Dewan Rakyat
+Q7241319,President of the Dewan Negara,,,,,,,,,President of the Dewan Negara
+Q23938077,Governor of Central Bank of Malaysia,Q833,Q806646,,,1959-01,,,,Governor of the Central Bank of Malaysia
