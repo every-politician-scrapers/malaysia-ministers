@@ -79,21 +79,6 @@
               ]
             },
             {
-              "text": "He served as the 13th Deputy Prime Minister from July 2021 to August 2021, serving for only 40 days, and several cabinet positions in successive governments from 2008 to 2021.",
-              "links": [
-                {
-                  "text": "Deputy Prime Minister",
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of Malaysia"
-                },
-                {
-                  "text": "cabinet",
-                  "type": "internal",
-                  "page": "Cabinet of Malaysia"
-                }
-              ]
-            },
-            {
               "text": "As of a result of the ongoing 2020–21 Malaysian political crisis, he was formally appointed and sworn in as Prime Minister on 21 August 2021 following the resignation of his predecessor Muhyiddin Yassin.",
               "links": [
                 {
@@ -127,7 +112,7 @@
         {
           "sentences": [
             {
-              "text": "He served in several cabinet positions in the BN administration under former Prime Ministers Abdullah Ahmad Badawi and Najib Razak from March 2008 to its 2018 general election loss, including Minister of Rural and Regional Development, Minister of Agriculture and Agro-based Industry, Minister of Domestic Trade, Cooperatives and Consumerism and Minister of Youth and Sports.",
+              "text": "He served in several cabinet positions in the BN administration under former Prime Ministers Abdullah Ahmad Badawi and Najib Razak, from March 2008 to its 2018 general election loss.",
               "links": [
                 {
                   "type": "internal",
@@ -141,26 +126,6 @@
                   "text": "2018 general election loss",
                   "type": "internal",
                   "page": "2018 Malaysian general election"
-                },
-                {
-                  "text": "Minister of Rural and Regional Development",
-                  "type": "internal",
-                  "page": "Minister of Rural and Regional Development (Malaysia)"
-                },
-                {
-                  "text": "Minister of Agriculture and Agro-based Industry",
-                  "type": "internal",
-                  "page": "Minister of Agriculture and Agro-based Industry (Malaysia)"
-                },
-                {
-                  "text": "Minister of Domestic Trade, Cooperatives and Consumerism",
-                  "type": "internal",
-                  "page": "Minister of Domestic Trade, Co-operatives and Consumerism (Malaysia)"
-                },
-                {
-                  "text": "Minister of Youth and Sports",
-                  "type": "internal",
-                  "page": "Minister of Youth and Sports (Malaysia)"
                 }
               ]
             },
@@ -184,7 +149,7 @@
               ]
             },
             {
-              "text": "In the PN government, he was appointed Senior Minister in charge of Security from March 2020 to his promotion to the deputy premiership in July 2021, during which he was prominent in the country's response to the COVID-19 pandemic.",
+              "text": "In the PN government, he was prominent in the country's response to the COVID-19 pandemic in his roles as Senior Minister for Security, and later during a 40-day stint as Deputy Prime Minister.",
               "links": [
                 {
                   "text": "PN government",
@@ -195,6 +160,11 @@
                   "text": "COVID-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic in Malaysia"
+                },
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Malaysia"
                 }
               ]
             },
@@ -228,6 +198,16 @@
                 {
                   "type": "internal",
                   "page": "Twelfth Malaysia Plan"
+                }
+              ]
+            },
+            {
+              "text": "He was criticised for the response to major floods in December 2021.",
+              "links": [
+                {
+                  "text": "major floods in December 2021",
+                  "type": "internal",
+                  "page": "December 2021 Malaysian floods"
                 }
               ]
             }
@@ -329,7 +309,10 @@
             "text": "Ismail Sabri Yaakob"
           },
           "image": {
-            "text": "DSISY March 2021.jpg"
+            "text": "Perdana_Menteri_Dato'_Sri_Ismail.jpg"
+          },
+          "caption": {
+            "text": "Official portrait"
           },
           "honorific-suffix": {
             "text": "SSAP SPDK DGSM DIMP MP"
@@ -846,11 +829,11 @@
           "type": "web"
         },
         {
-          "url": "http://www.parlimen.gov.my/index.php?modload=ahlidewan&uweb=dr&action=details&id=76",
           "title": "Ismail Sabri bin Yaakob, Y.B. Dato' Sri",
+          "url": "http://www.parlimen.gov.my/index.php?modload=ahlidewan&uweb=dr&action=details&id=76",
+          "access-date": "16 July 2010",
           "publisher": "Parliament of Malaysia",
           "language": "ms",
-          "access-date": "16 July 2010",
           "template": "citation",
           "type": "web"
         },
