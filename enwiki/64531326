@@ -96,6 +96,13 @@
           "template": "malay name"
         },
         {
+          "list": [
+            "Arab",
+            "أزهر عزيزان هارون"
+          ],
+          "template": "script"
+        },
+        {
           "year": "1962",
           "month": "10",
           "day": "26",
@@ -133,9 +140,6 @@
           },
           "honorific_suffix": {
             "text": "PSM PJN"
-          },
-          "native_name": {
-            "text": "أزهر عزيزان هارون"
           },
           "native_name_lang": {
             "text": "ms"
