@@ -182,10 +182,10 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Yang Bangsat Datuk Seri",
+            "text": "Yang Berhormat Datuk Seri",
             "links": [
               {
-                "text": "Yang Bangsat",
+                "text": "Yang Berhormat",
                 "type": "internal",
                 "page": "Malay titles",
                 "anchor": "Honorary styles"
@@ -214,30 +214,89 @@
             "text": "2018–2020"
           },
           "suboffice3": {
-            "text": "[[Minister of Rural Development (Malaysia)(useless)|Minister of Rural Development](useless)]| subterm4           = 2020–| suboffice4          = Minister of Women, Family and Community Development(better gone no good change)| office7             = Faction represented in  subterm7            = 2018–2020| suboffice7          = [[Pakatan Harapan| subterm8            = 2020| suboffice8          = Malaysian United Indigenous Party| subterm9            = 2020–| suboffice9          = Perikatan Nasional| office              = 1st Women Chief of the\nMalaysian United Indigenous Party| 1blankname          = Chairman| 1namedata           = Mahathir Mohamad\n(2016–2020)\nMuhyiddin Yassin\n(Acting)\n(2020)| president           = Muhyiddin Yassin| term_start          = 5 April 2017| term_end            = | deputy              = Shamsilah Siru\n(2017–2020)\nMas Ermieyati Samsudin\n(since 2020)| predecessor         = Position established| successor           =| birth_name          = Rina binti Mohd Harun| birth_date          = April 18, 1973 | birth_place         = Tanjung Karang, Selangor, Malaysia| residence           = | death_date          = | death_place         = | citizenship         = Malaysian| party               = United Malays National Organisation (UMNO) (until 2016)\nMalaysian United Indigenous Party (PPBM) (2016–present)| otherparty          = Barisan Nasional (BN) Pakatan Harapan (PH) Perikatan Nasional (PN)| occupation          = Politician| relations           = | parents             = | spouse              = | alma_mater          = Northwood University\nMARA University of Technology| children            = | website             = www.rinaharun.com/| footnotes           =  \n|undefined",
+            "text": "Minister of Rural Development",
             "links": [
               {
-                "text": "Minister of Women, Family and Community Development(better gone no good change)",
+                "text": "Minister of Rural Development",
+                "type": "internal",
+                "page": "Minister of Rural Development (Malaysia)"
+              }
+            ]
+          },
+          "subterm4": {
+            "text": "2020–"
+          },
+          "suboffice4": {
+            "text": "Minister of Women, Family and Community Development",
+            "links": [
+              {
+                "text": "Minister of Women, Family and Community Development",
                 "type": "internal",
                 "page": "Ministry of Women, Family and Community Development (Malaysia)"
-              },
+              }
+            ]
+          },
+          "office7": {
+            "text": "Faction represented in Dewan Rakyat",
+            "links": [
               {
-                "text": " subterm7            = 2018–2020| suboffice7          = [[Pakatan Harapan",
                 "type": "internal",
-                "page": "Dewan Rakyat](no voice)]| subterm7            = 2018–2020"
-              },
+                "page": "Dewan Rakyat"
+              }
+            ]
+          },
+          "subterm7": {
+            "text": "2018–2020"
+          },
+          "suboffice7": {
+            "text": "Pakatan Harapan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pakatan Harapan"
+              }
+            ]
+          },
+          "subterm8": {
+            "text": "2020",
+            "number": 2020
+          },
+          "suboffice8": {
+            "text": "Malaysian United Indigenous Party",
+            "links": [
               {
                 "type": "internal",
                 "page": "Malaysian United Indigenous Party"
-              },
+              }
+            ]
+          },
+          "subterm9": {
+            "text": "2020–"
+          },
+          "suboffice9": {
+            "text": "Perikatan Nasional",
+            "links": [
               {
                 "type": "internal",
                 "page": "Perikatan Nasional"
-              },
+              }
+            ]
+          },
+          "office": {
+            "text": "1st Women Chief of the\nMalaysian United Indigenous Party",
+            "links": [
               {
                 "type": "internal",
                 "page": "Malaysian United Indigenous Party"
-              },
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Chairman"
+          },
+          "1namedata": {
+            "text": "Mahathir Mohamad\n(2016–2020)\nMuhyiddin Yassin\n(Acting)\n(2020)",
+            "links": [
               {
                 "type": "internal",
                 "page": "Mahathir Mohamad"
@@ -245,11 +304,24 @@
               {
                 "type": "internal",
                 "page": "Muhyiddin Yassin"
-              },
+              }
+            ]
+          },
+          "president": {
+            "text": "Muhyiddin Yassin",
+            "links": [
               {
                 "type": "internal",
                 "page": "Muhyiddin Yassin"
-              },
+              }
+            ]
+          },
+          "term_start": {
+            "text": "5 April 2017"
+          },
+          "deputy": {
+            "text": "Shamsilah Siru\n(2017–2020)\nMas Ermieyati Samsudin\n(since 2020)",
+            "links": [
               {
                 "type": "internal",
                 "page": "Shamsilah Siru"
@@ -257,16 +329,45 @@
               {
                 "type": "internal",
                 "page": "Mas Ermieyati Samsudin"
-              },
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "birth_name": {
+            "text": "Rina binti Mohd Harun"
+          },
+          "birth_date": {
+            "text": "April 18, 1973"
+          },
+          "birth_place": {
+            "text": "Tanjung Karang, Selangor, Malaysia",
+            "links": [
               {
                 "type": "internal",
                 "page": "Tanjung Karang"
-              },
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Malaysian",
+            "links": [
               {
                 "text": "Malaysian",
                 "type": "internal",
                 "page": "Malaysian people"
-              },
+              }
+            ]
+          },
+          "party": {
+            "text": "United Malays National Organisation (UMNO) (until 2016)\nMalaysian United Indigenous Party (PPBM) (2016–present)",
+            "links": [
               {
                 "type": "internal",
                 "page": "United Malays National Organisation"
@@ -274,7 +375,12 @@
               {
                 "type": "internal",
                 "page": "Malaysian United Indigenous Party"
-              },
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Barisan Nasional (BN) Pakatan Harapan (PH) Perikatan Nasional (PN)",
+            "links": [
               {
                 "type": "internal",
                 "page": "Barisan Nasional"
@@ -286,7 +392,15 @@
               {
                 "type": "internal",
                 "page": "Perikatan Nasional"
-              },
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "alma_mater": {
+            "text": "Northwood University\nMARA University of Technology",
+            "links": [
               {
                 "type": "internal",
                 "page": "Northwood University"
@@ -295,12 +409,10 @@
                 "type": "internal",
                 "page": "MARA University of Technology"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
+            ]
+          },
+          "website": {
+            "text": "www.rinaharun.com/"
           }
         }
       ],
