@@ -10,33 +10,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.6
-    - name: Install OS dependencies
-      run: sudo apt-get install jq moreutils
-    - name: Install ruby dependencies
-      run: bundle install
-    - name: install qsv
+    - name: Install dependencies
       run: |-
-        curl -L https://github.com/jqnatividad/qsv/releases/download/0.20.0/qsv-0.20.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
+        sudo apt-get install jq moreutils
+        npm install -g wikibase-cli
+        curl -L https://github.com/jqnatividad/qsv/releases/download/0.22.0/qsv-0.22.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
         sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
-    - name: Compare official site (mirrored earlier) to Wikidata
-      run: bash bin/compare-official.sh
-    - name: Compare enwiki list to Wikidata
-      run: bash bin/compare-enwiki.sh
+        bundle install
+    - name: Compare external sources to Wikidata
+      run: for comp in bin/compare-*.sh; do bash $comp; done
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3
       with:
-        commit-message: Automated update
+        commit-message: Compare external sources to Wikidata
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
         branch: data-update
         delete-branch: true
-        title: 'Current member list'
+        title: 'Compare external sources to Wikidata'
         assignees: tmtmtmtm
         reviewers: tmtmtmtm
     - name: Check outputs
