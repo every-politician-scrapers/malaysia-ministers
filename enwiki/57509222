@@ -143,7 +143,7 @@
           "template": "use dmy dates"
         },
         {
-          "description": "Malaysian politician (born 1973)",
+          "description": "Malaysian politician",
           "template": "short description"
         },
         {
@@ -202,19 +202,7 @@
             "text": "Rina Harun"
           },
           "honorific-suffix": {
-            "text": "DGSM MP",
-            "links": [
-              {
-                "text": "DGSM",
-                "type": "internal",
-                "page": "List of post-nominal letters (Malacca)"
-              },
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
+            "text": "DGSM MP"
           },
           "image": {
             "text": "Rina Mohd Harun (12 March 2021).jpg"

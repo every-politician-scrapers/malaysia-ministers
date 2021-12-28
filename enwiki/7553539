@@ -273,11 +273,15 @@
             ]
           },
           "primeminister1": {
-            "text": "Muhyiddin Yassin",
+            "text": "Muhyiddin Yassin (2020-2021) Ismail Sabri Yaakob (since 2021)",
             "links": [
               {
                 "type": "internal",
                 "page": "Muhyiddin Yassin"
+              },
+              {
+                "type": "internal",
+                "page": "Ismail Sabri Yaakob"
               }
             ]
           },
