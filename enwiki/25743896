@@ -284,6 +284,10 @@
           "spouse": "Muhaini Zainal Abidin",
           "from": "1986",
           "template": "marriage"
+        },
+        {
+          "date": "December 2021",
+          "template": "by whom"
         }
       ],
       "infoboxes": [
