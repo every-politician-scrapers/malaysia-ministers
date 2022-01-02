@@ -58,7 +58,7 @@
               }
             },
             {
-              "text": "He has served as 10th Speaker of the Dewan Rakyat since July 2020, yet he is the most useless one as he refused to allow the discussion on flood issues in the parliament when there are casualties and deaths already.",
+              "text": "He has served as 10th Speaker of the Dewan Rakyat since July 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -81,7 +81,7 @@
       ],
       "templates": [
         {
-          "description": "Malaysian most useless speaker",
+          "description": "Malaysian politician and lawyer",
           "template": "short description"
         },
         {
@@ -330,7 +330,7 @@
             ]
           },
           "occupation": {
-            "text": "Citizen's killer"
+            "text": "Lawyer"
           },
           "relatives": {
             "text": "Idrus Harun (elder brother)",
@@ -341,40 +341,6 @@
               }
             ]
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.bharian.com.my/node/710228/amp",
-          "title": "Art Harun, dari mahkamah dan SPR ke Parlimen",
-          "trans-title": "Art Harun, from court and EC to Parliament",
-          "date": "13 July 2020",
-          "access-date": "4 August 2020",
-          "work": "Berita Harian",
-          "language": "ms",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://bernama.com/en/general/news.php?id=1859984",
-          "title": "Art Harun, from court, EC and now Parliament",
-          "publisher": "Bernama",
-          "date": "15 May 2020",
-          "access-date": "15 May 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Yunus",
-          "first1": "Arfa",
-          "title": "No regrets, says Art Harun on accepting Speaker's role {{!}} New Straits Times",
-          "url": "https://www.nst.com.my/news/politics/2020/07/608275/no-regrets-says-art-harun-accepting-speakers-role",
-          "website": "NST Online",
-          "access-date": "26 July 2020",
-          "language": "en",
-          "date": "13 July 2020",
-          "template": "citation",
-          "type": "web"
         }
       ]
     }

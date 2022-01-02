@@ -403,55 +403,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parlimen.gov.my/index.php?modload=ahlidewan&uweb=dr&action=details&id=193",
-          "title": "Fadillah bin Haji Yusof, Y.B. Tuan Haji",
-          "publisher": "Parliament of Malaysia",
-          "language": "ms",
-          "access-date": "6 April 2010",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.mosti.gov.my/mosti/index.php?option=com_content&task=view&id=313&Itemid=212",
-          "title": "Deputy Minister: YB Tuan Haji Fadillah bin Haji Yusof",
-          "publisher": "Ministry of Science, Technology and Innovation",
-          "access-date": "8 October 2010",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20101121013905/http://www.mosti.gov.my/mosti/index.php?option=com_content&task=view&id=313&Itemid=212",
-          "archive-date": "21 November 2010",
-          "df": "dmy",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.malaysiakini.com/news/502680",
-          "publisher": "Malaysiakini",
-          "access-date": "8 December 2019",
-          "date": "6 December 2019",
-          "title": "Four new select committees formed, one headed by opposition",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.facebook.com/therealmariachin/photos/pcb.3533478726669927/3533444090006724/?type=3&theater",
-          "access-date": "8 December 2019",
-          "date": "4 December 2019",
-          "website": "facebook.com",
-          "last": "Abdullah",
-          "first": "Maria Chin",
-          "title": "Maria Chin Abdullah",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.edgeprop.my/content/1861645/works-minister-fadillah-yusof-tests-positive-covid-19-undergoing-home-quarantine",
-          "title": "Works Minister Fadillah Yusof tests positive for Covid-19, undergoing home quarantine",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -391,48 +391,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.thestar.com.my/News/Nation/2014/01/24/Reezal-Amanah-Raya/",
-          "title": "Reezal Merican appointed chairman of Amanah Raya Berhad",
-          "date": "24 January 2014",
-          "work": "The Star",
-          "access-date": "8 December 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://news.abnxcess.com/2013/10/kepala-batas-umno-division-plans-to-set-up-tun-abdullah-ahmad-badawi-leadership-development-institute/",
-          "title": "Kepala Batas Umno division plans to set up Tun Abdullah Ahmad Badawi Leadership Development Institute",
-          "date": "20 October 2013",
-          "work": "ABN News",
-          "access-date": "8 December 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://english.astroawani.com/news/show/three-umno-youths-in-supreme-council-24269",
-          "title": "Three UMNO Youths in supreme council",
-          "last": "Irwan Muhammad Zain",
-          "date": "20 October 2013",
-          "work": "Astro Awani",
-          "access-date": "8 December 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www2.pmo.gov.my/election/maklumat.asp?strTahun=2013&strDR=P041&strDUN=0000",
-          "title": "Maklumat Terperinci Keputusan Pilihan Raya Umum",
-          "publisher": "Election Commission of Malaysia",
-          "language": "ms",
-          "access-date": "8 December 2014",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20141222161411/http://www2.pmo.gov.my/election/maklumat.asp?strTahun=2013&strDR=P041&strDUN=0000",
-          "archive-date": "22 December 2014",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
