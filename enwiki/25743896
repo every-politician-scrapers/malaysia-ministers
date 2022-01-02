@@ -819,61 +819,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "hermesauto",
-          "date": "21 August 2021",
-          "title": "Ismail Sabri Yaakob sworn in as Malaysia's new prime minister",
-          "url": "https://www.straitstimes.com/asia/se-asia/ismail-sabri-to-be-sworn-in-as-malaysias-new-pm",
-          "access-date": "21 August 2021",
-          "website": "The Straits Times",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Ismail Sabri bin Yaakob, Y.B. Dato' Sri",
-          "url": "http://www.parlimen.gov.my/index.php?modload=ahlidewan&uweb=dr&action=details&id=76",
-          "access-date": "16 July 2010",
-          "publisher": "Parliament of Malaysia",
-          "language": "ms",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Malaysian MPs backing Ismail Sabri as next PM meet with the king to verify their support",
-          "url": "https://www.channelnewsasia.com/asia/malaysia-prime-minister-mps-summoned-palace-meet-king-ismail-sabri-2121566",
-          "access-date": "19 August 2021",
-          "website": "CNA",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "20 August 2021",
-          "title": "Ismail Sabri appointed 9th prime minister",
-          "url": "https://www.malaysiakini.com/news/587983",
-          "access-date": "20 August 2021",
-          "website": "Malaysiakini",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "13 April 2018",
-          "title": "Malays will never perish even if Umno loses, assures DAP leader",
-          "url": "http://www.todayonline.com/world/malays-will-never-perish-even-if-umno-loses-assures-dap-leader",
-          "access-date": "13 April 2018",
-          "work": "The Malay Mail",
-          "publisher": "Today Online",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "January 2022",
-          "template": "citation needed"
-        }
       ]
     }
   ]

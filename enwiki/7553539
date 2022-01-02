@@ -768,37 +768,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.thestar.com.my/news/nation/2018/06/04/rais-yatim-joins-pribumi/",
-          "title": "Rais Yatim joins Pribumi",
-          "date": "4 June 2018",
-          "work": "The Star",
-          "access-date": "5 June 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Rais Yatim dilantik Presiden UIAM",
-          "url": "http://www.sinarharian.com.my/nasional/rais-yatim-dilantik-presiden-uiam-1.178651",
-          "access-date": "4 August 2013",
-          "newspaper": "Sinar Harian",
-          "date": "3 July 2013",
-          "language": "ms",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.freemalaysiatoday.com/category/nation/2018/06/04/umno-veteran-rais-yatim-joins-ppbm/",
-          "title": "Umno veteran Rais Yatim joins PPBM",
-          "date": "4 June 2018",
-          "author": "Minderjeet Kaur",
-          "publisher": "Free Malaysia Today",
-          "access-date": "5 June 2018",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

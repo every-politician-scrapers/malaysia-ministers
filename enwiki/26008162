@@ -518,36 +518,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.thestar.com.my/news/nation/2018/12/15/six-more-mps-leave-umno-latest-exodus-leaves-party-with-only-37-lawmakers-in-dewan-rakyat/",
-          "title": "Six more MPs leave Umno",
-          "work": "The Star",
-          "author": "Mazwin Nik Anis, Muguntan Vanar and Zakiah Koya",
-          "date": "15 December 2018",
-          "access-date": "15 December 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
