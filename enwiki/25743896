@@ -207,7 +207,7 @@
                 {
                   "text": "major floods in December 2021",
                   "type": "internal",
-                  "page": "December 2021 Malaysian floods"
+                  "page": "2021–2022 Malaysian floods"
                 }
               ]
             }
@@ -869,6 +869,10 @@
           "publisher": "Today Online",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "January 2022",
+          "template": "citation needed"
         }
       ]
     }
