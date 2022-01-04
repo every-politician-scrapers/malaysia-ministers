@@ -119,10 +119,10 @@
       "infoboxes": [
         {
           "honorific_prefix": {
-            "text": "Yang BINGAI Tan Sri",
+            "text": "Yang Berhormat Tan Sri",
             "links": [
               {
-                "text": "Yang BINGAI",
+                "text": "Yang Berhormat",
                 "type": "internal",
                 "page": "Malay titles",
                 "anchor": "Honorary styles"
@@ -221,15 +221,15 @@
             ]
           },
           "primeminister1": {
-            "text": "MAHIADDIN Yassin\n(2020–2021)\nMAIL NGANTUK Yaakob\n(since 2021)",
+            "text": "Muhyiddin Yassin\n(2020–2021)\nIsmail Sabri Yaakob\n(since 2021)",
             "links": [
               {
                 "type": "internal",
-                "page": "MAHIADDIN Yassin"
+                "page": "Muhyiddin Yassin"
               },
               {
                 "type": "internal",
-                "page": "MAIL NGANTUK Yaakob"
+                "page": "Ismail Sabri Yaakob"
               }
             ]
           },
