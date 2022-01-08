@@ -281,6 +281,13 @@
           "template": "birth date and age"
         },
         {
+          "year": "2021",
+          "month": "1",
+          "day": "7",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
           "spouse": "Muhaini Zainal Abidin",
           "from": "1986",
           "template": "marriage"
@@ -749,6 +756,9 @@
                 "page": "Federation of Malaya"
               }
             ]
+          },
+          "death_date": {
+            "text": "January 7, 2021"
           },
           "party": {
             "text": "United Malays National Organisation (1987–present)",
