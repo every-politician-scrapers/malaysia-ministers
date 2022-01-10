@@ -139,12 +139,12 @@
       ],
       "templates": [
         {
-          "date": "February 2021",
-          "template": "use dmy dates"
-        },
-        {
           "description": "Malaysian politician",
           "template": "short description"
+        },
+        {
+          "date": "February 2021",
+          "template": "use dmy dates"
         },
         {
           "list": [
