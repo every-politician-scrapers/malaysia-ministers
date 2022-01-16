@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Dato' Seri Hamzah bin Zainudin (Jawi: حمزة بن زين الدين; born 12 March 1957) is a Malaysian politician who has served as Minister of Home Affairs for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Dato' Seri Hamzah bin Zainudin (Jawi: حمزة بن زين الدين) is a Malaysian politician who has served as Minister of Home Affairs for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
               "links": [
                 {
                   "text": "Dato' Seri",
@@ -39,11 +39,6 @@
                   "text": "Jawi",
                   "type": "internal",
                   "page": "Jawi alphabet"
-                },
-                {
-                  "text": "Malaysian",
-                  "type": "internal",
-                  "page": "Malaysia"
                 },
                 {
                   "text": "politician",
@@ -169,13 +164,6 @@
             "حمزة زين الدين"
           ],
           "template": "script"
-        },
-        {
-          "year": "1957",
-          "month": "03",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -211,26 +199,6 @@
           },
           "birth_name": {
             "text": "Hamzah bin Zainudin"
-          },
-          "birth_date": {
-            "text": "March 12, 1957"
-          },
-          "birth_place": {
-            "text": "Perak, Federation of Malaya (now Malaysia)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Perak"
-              },
-              {
-                "type": "internal",
-                "page": "Federation of Malaya"
-              },
-              {
-                "type": "internal",
-                "page": "Malaysia"
-              }
-            ]
           },
           "office1": {
             "text": "Ministerial roles"
@@ -393,14 +361,7 @@
             ]
           },
           "citizenship": {
-            "text": "Malaysian",
-            "links": [
-              {
-                "text": "Malaysian",
-                "type": "internal",
-                "page": "Malaysian people"
-              }
-            ]
+            "text": "Malaysian"
           },
           "party": {
             "text": "BERSATU (2019-present)\nIndependent (2018-2019)\nUMNO (until 2018)",
