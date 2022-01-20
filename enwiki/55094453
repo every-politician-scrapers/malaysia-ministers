@@ -12,8 +12,8 @@
     "United Malays National Organisation politicians",
     "Members of the Dewan Rakyat",
     "Members of the Perak State Legislative Assembly",
-    "Perak state executive councillors",
     "Chief Ministers of Perak",
+    "Perak state executive councillors",
     "21st-century Malaysian politicians"
   ],
   "sections": [
@@ -546,13 +546,18 @@
             "text": "Businessman"
           },
           "alma_mater": {
-            "text": "Edith Cowan University (unfinished)",
+            "text": "Edith Cowan University (ungraduated)",
             "links": [
               {
                 "type": "internal",
                 "page": "Edith Cowan University"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "(ungraduated)"
+              ]
+            }
           },
           "blank1": {
             "text": "Other names"
