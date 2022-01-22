@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Datuk Seri Rina binti Mohd Harun (Jawi: رين بنت محمد هارون) is a Malaysian politician who has served as Minister of Women, Family and Community Development for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Datuk Seri Rina binti Mohd Harun (Jawi: رين بنت محمد هارون), nicknamed as Mek Jam is a Malaysian politician who has served as Minister of Women, Family and Community Development for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
               "links": [
                 {
                   "text": "Datuk Seri",
@@ -58,7 +58,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Rina binti Mohd Harun"
+                  "Rina binti Mohd Harun",
+                  "Mek Jam"
                 ]
               }
             },
