@@ -241,6 +241,12 @@
           "honorific-suffix": {
             "text": "DMSM DGSM MP"
           },
+          "image": {
+            "text": "Wee_Ka_Siong_in_2020.jpg"
+          },
+          "caption": {
+            "text": "Ka Siong in 2020"
+          },
           "office5": {
             "text": "Ministerial roles"
           },
@@ -512,11 +518,11 @@
             "number": 2
           },
           "alma_mater": {
-            "text": "Universiti Teknologi Malaysia (BEng, PhD)\nNanyang Technological University (MEng)",
+            "text": "University of Technology Malaysia (BEng, PhD)\nNanyang Technological University (MEng)",
             "links": [
               {
                 "type": "internal",
-                "page": "Universiti Teknologi Malaysia"
+                "page": "University of Technology Malaysia"
               },
               {
                 "text": "BEng",
