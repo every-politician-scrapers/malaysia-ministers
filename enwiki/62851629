@@ -66,6 +66,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Affendi",
+            "Buang"
+          ],
+          "note": "on",
+          "template": "malay name"
+        },
+        {
           "year": "1962",
           "month": "8",
           "day": "21",
@@ -173,9 +181,6 @@
                 "page": "Pingat Jasa Malaysia"
               }
             ]
-          },
-          "birth_name": {
-            "text": "Affendi bin Buang"
           },
           "birth_date": {
             "text": "August 21, 1962"
