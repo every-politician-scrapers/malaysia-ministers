@@ -101,7 +101,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Yang Berhormat Senator Ustaz Haji",
+            "text": "Yang Berhormat Senator Datuk Haji",
             "links": [
               {
                 "text": "Yang Berhormat",
@@ -115,9 +115,10 @@
                 "page": "Dewan Negara"
               },
               {
-                "text": "Ustaz",
+                "text": "Datuk",
                 "type": "internal",
-                "page": "Ustad"
+                "page": "Malay titles",
+                "anchor": "Datuk"
               },
               {
                 "text": "Haji",
@@ -128,6 +129,9 @@
           },
           "name": {
             "text": "Idris Ahmad"
+          },
+          "honorific-suffix": {
+            "text": "PMW"
           },
           "office2": {
             "text": "Ministerial roles"
