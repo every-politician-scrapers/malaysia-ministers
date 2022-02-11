@@ -101,7 +101,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Yang Berhormat Senator Datuk Haji",
+            "text": "Yang Berhormat Senator Datuk Ustaz Haji",
             "links": [
               {
                 "text": "Yang Berhormat",
@@ -119,6 +119,11 @@
                 "type": "internal",
                 "page": "Malay titles",
                 "anchor": "Datuk"
+              },
+              {
+                "text": "Ustaz",
+                "type": "internal",
+                "page": "Ustad"
               },
               {
                 "text": "Haji",
