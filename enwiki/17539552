@@ -149,6 +149,11 @@
           "month": "6",
           "day": "25",
           "template": "birth date and age"
+        },
+        {
+          "spouse": "Raja Datin Seri Utama Johanna Raja Arshad",
+          "from": "2011",
+          "template": "marriage"
         }
       ],
       "infoboxes": [
@@ -442,7 +447,7 @@
             "text": "Politician, investor"
           },
           "spouse": {
-            "text": "Raja Datin Seri Utama Johanna Raja Arshad"
+            "text": "Raja Datin Seri Utama Johanna Raja Arshad (m. 2011)"
           },
           "children": {
             "text": "4",
