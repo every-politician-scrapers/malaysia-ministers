@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Tuan Ibrahim (Jawi: توان إبراهيم بن توان من) is a Malaysian politician who has served as the Minister of Environment and Water for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Tuan Ibrahim bin Tuan Man (Jawi: توان إبراهيم بن توان من) is a Malaysian politician who has served as the Minister of Environment and Water for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
               "links": [
                 {
                   "text": "Jawi",
@@ -53,7 +53,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Tuan Ibrahim"
+                  "Tuan Ibrahim bin Tuan Man"
                 ]
               }
             },
@@ -159,7 +159,7 @@
             ]
           },
           "name": {
-            "text": "Tuan Ibrahim"
+            "text": "Tuan Ibrahim Tuan Man"
           },
           "honorific-suffix": {
             "text": "SSAP DIMP MP"
