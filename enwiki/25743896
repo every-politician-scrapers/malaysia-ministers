@@ -437,7 +437,7 @@
             ]
           },
           "office3": {
-            "text": "Senior Minister for Security",
+            "text": "Senior Minister of Security",
             "links": [
               {
                 "text": "Senior Minister",
@@ -760,7 +760,7 @@
             ]
           },
           "otherparty": {
-            "text": "Barisan Nasional (1987–present)\nMuafakat Nasional (2019–present)\nPerikatan Nasional (2020–present)",
+            "text": "Barisan Nasional (1987–present)\nMuafakat Nasional (2019–present)\nPerikatan Nasional (aligned:2020–present)",
             "links": [
               {
                 "type": "internal",
@@ -804,7 +804,7 @@
               }
             ]
           },
-          "education": {
+          "alma_mater": {
             "text": "University of Malaya (LLB)",
             "links": [
               {
