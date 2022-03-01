@@ -353,132 +353,6 @@
             ]
           },
           "office1": {
-            "text": "13th Deputy Prime Minister of Malaysia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Malaysia"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Muhyiddin Yassin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhyiddin Yassin"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "7 July 2021"
-          },
-          "term_end1": {
-            "text": "16 August 2021"
-          },
-          "predecessor1": {
-            "text": "Wan Azizah Wan Ismail",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wan Azizah Wan Ismail"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Vacant",
-            "formatting": {
-              "italic": [
-                "Vacant"
-              ]
-            }
-          },
-          "office2": {
-            "text": "Minister of Defence",
-            "links": [
-              {
-                "text": "Minister of Defence",
-                "type": "internal",
-                "page": "Minister of Defence (Malaysia)"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Muhyiddin Yassin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhyiddin Yassin"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "10 March 2020"
-          },
-          "term_end2": {
-            "text": "16 August 2021"
-          },
-          "predecessor2": {
-            "text": "Mohamad Sabu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohamad Sabu"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Hishammuddin Hussein",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hishammuddin Hussein"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Senior Minister of Security",
-            "links": [
-              {
-                "text": "Senior Minister",
-                "type": "internal",
-                "page": "Senior Minister of Malaysia"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Muhyiddin Yassin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhyiddin Yassin"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "10 March 2020"
-          },
-          "term_end3": {
-            "text": "7 July 2021"
-          },
-          "predecessor3": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "successor3": {
-            "text": "Hishammuddin Hussein",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hishammuddin Hussein"
-              }
-            ]
-          },
-          "office4": {
             "text": "15th Leader of the Opposition",
             "links": [
               {
@@ -488,7 +362,7 @@
               }
             ]
           },
-          "primeminister4": {
+          "primeminister1": {
             "text": "Mahathir Mohamad",
             "links": [
               {
@@ -497,13 +371,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start1": {
             "text": "12 March 2019"
           },
-          "term_end4": {
+          "term_end1": {
             "text": "24 February 2020"
           },
-          "predecessor4": {
+          "predecessor1": {
             "text": "Ahmad Zahid Hamidi",
             "links": [
               {
@@ -512,7 +386,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor1": {
             "text": "Anwar Ibrahim",
             "links": [
               {
@@ -521,183 +395,7 @@
               }
             ]
           },
-          "office5": {
-            "text": "Minister of Rural and Regional Development",
-            "links": [
-              {
-                "text": "Minister of Rural and Regional Development",
-                "type": "internal",
-                "page": "Minister of Rural and Regional Development (Malaysia)"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Najib Razak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Najib Razak"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "29 July 2015"
-          },
-          "term_end5": {
-            "text": "9 May 2018"
-          },
-          "predecessor5": {
-            "text": "Shafie Apdal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shafie Apdal"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Rina Harun (Rural Development)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rina Harun"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister of Agriculture and Agro-based Industry",
-            "links": [
-              {
-                "text": "Minister of Agriculture and Agro-based Industry",
-                "type": "internal",
-                "page": "Minister of Agriculture and Agro-based Industry (Malaysia)"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "Najib Razak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Najib Razak"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "16 May 2013"
-          },
-          "term_end6": {
-            "text": "29 July 2015"
-          },
-          "predecessor6": {
-            "text": "Noh Omar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Noh Omar"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Ahmad Shabery Cheek",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmad Shabery Cheek"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Minister of Domestic Trade, Cooperatives and Consumerism",
-            "links": [
-              {
-                "text": "Minister of Domestic Trade, Cooperatives and Consumerism",
-                "type": "internal",
-                "page": "Minister of Domestic Trade, Co-operatives and Consumerism (Malaysia)"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "Najib Razak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Najib Razak"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "10 April 2009"
-          },
-          "term_end7": {
-            "text": "15 May 2013"
-          },
-          "predecessor7": {
-            "text": "Shahrir Samad (Domestic Trade, Consumerism)\nNoh Omar (Cooperatives)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shahrir Samad"
-              },
-              {
-                "type": "internal",
-                "page": "Noh Omar"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Hasan Malek",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hasan Malek"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Minister of Youth and Sports",
-            "links": [
-              {
-                "text": "Minister of Youth and Sports",
-                "type": "internal",
-                "page": "Minister of Youth and Sports (Malaysia)"
-              }
-            ]
-          },
-          "primeminister8": {
-            "text": "Abdullah Ahmad Badawi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdullah Ahmad Badawi"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "18 March 2008"
-          },
-          "term_end8": {
-            "text": "9 April 2009"
-          },
-          "predecessor8": {
-            "text": "Azalina Othman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Azalina Othman"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Ahmad Shabery Cheek",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmad Shabery Cheek"
-              }
-            ]
-          },
-          "constituency_mp9": {
+          "constituency_mp2": {
             "text": "Bera",
             "links": [
               {
@@ -707,13 +405,13 @@
               }
             ]
           },
-          "parliament9": {
+          "parliament2": {
             "text": "Malaysian"
           },
-          "term_start9": {
+          "term_start2": {
             "text": "21 March 2004"
           },
-          "predecessor9": {
+          "predecessor2": {
             "text": "Position established",
             "formatting": {
               "italic": [
@@ -721,13 +419,129 @@
               ]
             }
           },
-          "majority9": {
+          "majority2": {
             "text": "2,311 (2018)",
             "links": [
               {
                 "text": "2018",
                 "type": "internal",
                 "page": "2018 Malaysian general election"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Ministerial roles"
+          },
+          "subterm3": {
+            "text": "2008–2009"
+          },
+          "suboffice3": {
+            "text": "Minister of Youth and Sports",
+            "links": [
+              {
+                "text": "Minister of Youth and Sports",
+                "type": "internal",
+                "page": "Ministry of Youth and Sports (Malaysia)"
+              }
+            ]
+          },
+          "subterm4": {
+            "text": "2009–2013"
+          },
+          "suboffice4": {
+            "text": "Minister of Domestic Trade, Cooperatives and Consumerism",
+            "links": [
+              {
+                "text": "Minister of Domestic Trade, Cooperatives and Consumerism",
+                "type": "internal",
+                "page": "Ministry of Domestic Trade and Consumer Affairs (Malaysia)"
+              }
+            ]
+          },
+          "subterm5": {
+            "text": "2013–2015"
+          },
+          "suboffice5": {
+            "text": "Minister of Agriculture and Agro-based Industry",
+            "links": [
+              {
+                "text": "Minister of Agriculture and Agro-based Industry",
+                "type": "internal",
+                "page": "Ministry of Agriculture and Food Industries (Malaysia)"
+              }
+            ]
+          },
+          "subterm6": {
+            "text": "2015–2018"
+          },
+          "suboffice6": {
+            "text": "Minister of Rural and Regional Development",
+            "links": [
+              {
+                "text": "Minister of Rural and Regional Development",
+                "type": "internal",
+                "page": "Ministry of Rural Development (Malaysia)"
+              }
+            ]
+          },
+          "subterm7": {
+            "text": "2020–2021"
+          },
+          "suboffice7": {
+            "text": "Senior Minister",
+            "links": [
+              {
+                "text": "Senior Minister",
+                "type": "internal",
+                "page": "Senior Minister of Malaysia"
+              }
+            ]
+          },
+          "subterm8": {
+            "text": "2020–2021"
+          },
+          "suboffice8": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Malaysia)"
+              }
+            ]
+          },
+          "subterm9": {
+            "text": "2021",
+            "number": 2021
+          },
+          "suboffice9": {
+            "text": "Deputy Prime Minister",
+            "links": [
+              {
+                "text": "Deputy Prime Minister",
+                "type": "internal",
+                "page": "Deputy Prime Minister of Malaysia"
+              }
+            ]
+          },
+          "office10": {
+            "text": "Faction represented in Dewan Rakyat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dewan Rakyat"
+              }
+            ]
+          },
+          "subterm10": {
+            "text": "2004–"
+          },
+          "suboffice10": {
+            "text": "Barisan Nasional",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barisan Nasional"
               }
             ]
           },
@@ -760,7 +574,7 @@
             ]
           },
           "otherparty": {
-            "text": "Barisan Nasional (1987–present)\nMuafakat Nasional (2019–present)\nPerikatan Nasional (aligned:2020–present)",
+            "text": "Barisan Nasional (1987–present)\nMuafakat Nasional (2019–present)\nPerikatan Nasional (2020–present)",
             "links": [
               {
                 "type": "internal",
