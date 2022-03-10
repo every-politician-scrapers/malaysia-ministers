@@ -534,12 +534,8 @@
             "text": "Nori Abdullah (m. 2001)"
           },
           "alma_mater": {
-            "text": "St Hugh's College, Oxford\nUniversity College London",
+            "text": "u\nUniversity College London",
             "links": [
-              {
-                "type": "internal",
-                "page": "St Hugh's College, Oxford"
-              },
               {
                 "type": "internal",
                 "page": "University College London"
