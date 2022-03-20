@@ -1,6 +1,7 @@
 {
   "honorific-prefix": "Yang Berhormat Dato' Sri Haji",
   "name": "Fadillah Yusof",
+  "honorific-suffix": "SSAP DGSM PGBK MP",
   "image": "File:Fadillah_Yusof_2020.jpg",
   "caption": "Fadillah in 2020",
   "birth_name": "Fadillah bin Yusof",
@@ -13,7 +14,7 @@
   "subterm2": "2013–2018",
   "suboffice2": "Minister of Works",
   "subterm3": "2020–",
-  "suboffice3": "Senior Minister",
+  "suboffice3": "Senior Minister of Infrastructure Development",
   "subterm4": "2020–",
   "suboffice4": "Minister of Works",
   "office12": "Other roles",
@@ -22,14 +23,11 @@
   "office8": "Faction represented in Dewan Rakyat",
   "subterm8": "2004–2018",
   "suboffice8": "Barisan Nasional",
-  "subterm9": "2018",
-  "suboffice9": "Parti Pesaka Bumiputera Bersatu",
-  "subterm10": "2018–",
-  "suboffice10": "Gabungan Parti Sarawak",
+  "subterm9": "2018–",
+  "suboffice9": "Gabungan Parti Sarawak",
   "party": "Parti Pesaka Bumiputera Bersatu (PBB)",
   "otherparty": "Perikatan Nasional (PN) (allied) Gabungan Parti Sarawak (GPS) Barisan Nasional (BN)",
   "occupation": "Politician",
-  "relations": "Bustari Yusof (brother)",
   "spouse": "Ruziah Mohd Tahir",
   "alma_mater": "University of Malaya"
 }
