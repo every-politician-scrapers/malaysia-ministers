@@ -1,22 +1,12 @@
 @@,itemlabel,item,startdate,enddate
-+++,Leong Yew Koh,Q6526284,1955,1956
-+++,Leong Yew Koh,Q6526284,1956,1957
-+++,V. T. Sambanthan,Q3524210,1957,1959
-+++,Omar Ong Yoke Lin,Q1854882,1959,1960
-+++,Abdul Aziz Ishak,Q4204513,1960,1962
-+++,Abdul Rahman Talib,Q12681922,1962,1964
-+++,Lim Swee Aun,Q6548757,1962-08-01,1962-10-10
-+++,Bahaman Samsudin,Q25241059,1964,1968
-+++,Ng Kam Poh,Q25241312,1968,1969
-+++,Sardon Jubir,Q277952,1969-06-04,1972-01-01
-+++,Lee Siok Yew,Q25240917,1972,1978
-+++,Chong Hon Nyan,Q7321947,1978,1982
-+++,Mak Hon Kam,Q25241099,1982,1987
-+++,Chan Siang Sun,Q25241113,1987,1989
-+++,Ng Cheng Kiat,Q25240997,1989,1990
-+++,Chua Jui Meng,Q5115192,1995,2004
-+++,Chua Soi Lek,Q911132,2004,2007
+---,Leong Yew Koh,Q6526284,1956,
+->,Omar Yoke Lin Ong->Omar Ong Yoke Lin,Q1854882,1959,1960
+->,Aziz Ishak->Abdul Aziz Ishak,Q4204513,1960,1962
++++,Bahaman Samsudin,,1964,1968
++++,Ng Kam Poh,,1968,1969
+->,Sardon Haji Jubir->Sardon Jubir,Q277952,1969-06-04,1972-01-01
++++,Lee Siok Yew,,1972,1978
++++,Mak Hon Kam,,1982,1987
++++,Chan Siang Sun,,1987,1989
++++,Ng Cheng Kiat,,1989,1990
 ->,Liow Tiong Lai,Q1049213,2008-03-18->2008,2013-05-05->2013
-+++,Subramaniam Sathasivam,Q10045531,2013-05-16,2018-05-09
-+++,Dzulkefly Ahmad,Q5320031,2018-05-21,2020-02-24
-+++,Adham Baba,Q55847609,2020-03-10,2021-08-16

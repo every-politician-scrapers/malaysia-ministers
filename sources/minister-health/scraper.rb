@@ -17,6 +17,10 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[col img name party title start end].freeze
     end
+
+    def name_node
+      name_cell.css('a').first
+    end
   end
 end
 
