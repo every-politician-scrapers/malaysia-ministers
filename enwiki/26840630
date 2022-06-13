@@ -1,8 +1,8 @@
 {
   "honorific-prefix": "Yang Berhormat Datuk Seri",
   "name": "Wan Junaidi",
+  "native_name": "وان جنيدي توانكو جعفر",
   "honorific-suffix": "PJN DGSM PNBS JSM PPN MP",
-  "birth_name": "Wan Junaidi bin Tuanku Jaafar",
   "birth_date": "February 1, 1946",
   "birth_place": "Kuching, British Military Administration (Borneo) (now Sarawak, Malaysia)",
   "office1": "Ministerial roles",
@@ -30,5 +30,6 @@
   "spouse": "Feona Sim @ Norjanah Abdullah (m. 1972-2022)",
   "children": "3",
   "website": "http://wjunaidi.blogspot.com/",
-  "alma_mater": "University of Southern California"
+  "alma_mater": "University of Southern California",
+  "native_name_lang": "ms"
 }
