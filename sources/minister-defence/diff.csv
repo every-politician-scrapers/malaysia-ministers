@@ -1,6 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,Mahathir Mohamad,Q181383,1981-07-18->1981-07-17,1986-05-06
-->,Tengku Ahmad Rithauddeen Tengku Ismail->Ahmad Rithauddeen Ismail,Q4072989,1987-05-20,1990-10-26
-->,Ahmad Zahid Hamidi,Q4695503,2009-04-10,2013-05-16->2013-05-15
-+++,Ismail Sabri Yaakob,Q6084858,2020-03-10,2021-07-07
-->,Ismail Sabri Yaakob,Q6084858,2020-03-20->2021-07-07,2021-08-16
+@@,item,itemlabel,startdate,enddate
+->,Q4695503,Ahmad Zahid Hamidi,2009-04-10,2013-05-16->2013-05-15
++++,Q6084858,Ismail Sabri Yaakob,2020-03-10,2021-07-07
+->,Q6084858,Ismail Sabri Yaakob,2020-03-20->2021-07-07,2021-08-16
