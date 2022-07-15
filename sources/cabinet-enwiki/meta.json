@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+      "name": "Malaysia",
+      "id": "Q833"
+    },
+    "cabinet": {
+      "id": "Q108168800",
+      "start": "2021-08-21",
+      "parent": "Q846488"
+    },
+    "source": {
+        "url":   "https://en.wikipedia.org/wiki/Ismail_Sabri_cabinet"
+    }
+}
