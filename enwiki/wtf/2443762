@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Khairy Jamaluddin (Jawi: خيري جمال الدين; born 10 January 1976), often referred to by his initials KJ, is a Malaysian politician who has served as Minister of Health in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Khairy Jamaluddin Abu Bakar (Jawi: خيري جمال الدين; born 10 January 1976), often referred to by his initials KJ, is a Malaysian politician who has served as Minister of Health in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
               "links": [
                 {
                   "text": "Jawi",
@@ -617,6 +617,16 @@
           "unit": {
             "text": "Rejimen AW 508"
           }
+        }
+      ],
+      "references": [
+        {
+          "title": "Portal Rasmi Parlimen Malaysia - Profile Ahli Dewan",
+          "url": "https://www.parlimen.gov.my/profile-ahli.html?uweb=dr&id=3655",
+          "access-date": "2022-07-20",
+          "website": "www.parlimen.gov.my",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

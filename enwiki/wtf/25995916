@@ -25,12 +25,25 @@
         {
           "sentences": [
             {
-              "text": "Noraini binti Ahmad (Jawi: نورعيني بنت أحمد; born November 7, 1967) is a Malaysian politician.",
+              "text": "Noraini binti Ahmad (Jawi: نورعيني بنت أحمد; born November 7, 1967) is a Malaysian politician who now serving her second term as the Minister of Higher Education under the Barisan Nasional (BN) administration led by Prime Minister Dato' Sri Ismail Sabri Yaakob.",
               "links": [
                 {
                   "text": "Jawi",
                   "type": "internal",
                   "page": "Jawi alphabet"
+                },
+                {
+                  "text": "Minister of Higher Education",
+                  "type": "internal",
+                  "page": "Minister of Higher Education (Malaysia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Barisan Nasional"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ismail Sabri Yaakob"
                 }
               ],
               "formatting": {
@@ -40,43 +53,19 @@
               }
             },
             {
-              "text": "She is a graduate of the University of Saskatchewan, Saskatoon, Canada where she obtained her Bachelor of Commerce (double major in quantitative analysis and finance) in 1991, followed by a master's degree in business administration (MBA) from Universiti Tun Abdul Razak (UNITAR) in 2005.",
+              "text": "She has held this position since August 2021 after having served her first term under the PN administration led by former Prime Minister Tan Sri Muhyiddin Yassin from March 2020 until her resignation in August 2021.",
               "links": [
                 {
+                  "text": "PN",
                   "type": "internal",
-                  "page": "University of Saskatchewan"
+                  "page": "Perikatan Nasional"
                 },
                 {
                   "type": "internal",
-                  "page": "Universiti Tun Abdul Razak"
+                  "page": "Muhyiddin Yassin"
                 }
               ]
             },
-            {
-              "text": "Datuk Seri Dr. Noraini Ahmad subsequently obtained her Doctor of Philosophy (PhD) in Development Management from Universiti Utara Malaysia (UUM) in 2016."
-            },
-            {
-              "text": "She then enrolled into the Doctor of Business Administration (DBA) program at Asia e-University (AeU)."
-            },
-            {
-              "text": "The title of her DBA dissertation is “The Phenomenological Study of Women Entrepreneurs and their Impact on Socio-Economic Growth in Malaysia”."
-            },
-            {
-              "text": "She will be one of the first Malaysians to complete the DBA in AeU via the APEL Q system."
-            },
-            {
-              "text": "She completed her viva on 11 November 2021 and received positive feedback on her dissertation from examiners who requested no further amendments/corrections upon submission."
-            },
-            {
-              "text": "They stated it was well written and the methodology was sound, which is a testament to her vast knowledge on women's entrepreneurship in Malaysia."
-            },
-            {
-              "text": "She completed her second PhD in April 2022."
-            }
-          ]
-        },
-        {
-          "sentences": [
             {
               "text": "She is a Malaysian politician from the United Malays National Organisation (UMNO), a component party of Barisan Nasional (BN) coalition which is aligned with Perikatan Nasional (PN) alliance.",
               "links": [
@@ -91,42 +80,6 @@
                 {
                   "type": "internal",
                   "page": "Perikatan Nasional"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She is now serving her second term as the Minister of Higher Education under the Barisan Nasional (BN) administration led by Prime Minister Dato' Sri Ismail Sabri Yaakob.",
-              "links": [
-                {
-                  "text": "Minister of Higher Education",
-                  "type": "internal",
-                  "page": "Minister of Higher Education (Malaysia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Barisan Nasional"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ismail Sabri Yaakob"
-                }
-              ]
-            },
-            {
-              "text": "She has held this position since August 2021 after having served her first term under the PN administration led by former Prime Minister Tan Sri Muhyiddin Yassin from March 2020 until her resignation in August 2021.",
-              "links": [
-                {
-                  "text": "PN",
-                  "type": "internal",
-                  "page": "Perikatan Nasional"
-                },
-                {
-                  "type": "internal",
-                  "page": "Muhyiddin Yassin"
                 }
               ]
             }
@@ -194,7 +147,7 @@
         {
           "sentences": [
             {
-              "text": "Datuk Seri Dr. Noraini Ahmad has held other positions such as the Chairperson of the Malaysia External Trade Development Corporation (MATRADE) from 2013 to 2018 and led several federal agencies, including the Malaysian Network Information Centre and Astronautic Technology.",
+              "text": "She has held other positions such as the Chairperson of the Malaysia External Trade Development Corporation (MATRADE) from 2013 to 2018 and led several federal agencies, including the Malaysian Network Information Centre and Astronautic Technology.",
               "links": [
                 {
                   "text": "External Trade Development Corporation (MATRADE)",
@@ -202,47 +155,6 @@
                   "page": "Malaysia External Trade Development Corporation"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On the international fora she became the first Malaysian to be elected as chairman of Commonwealth Women Parliamentarians (CWP) from 2016 to 2019.",
-              "formatting": {
-                "bold": [
-                  "On the international fora she became the first Malaysian to be elected as chairman of Commonwealth Women Parliamentarians (CWP)"
-                ]
-              }
-            },
-            {
-              "text": "She was elected through voting at the 62nd Commonwealth Parliamentarians' Conference in London, United Kingdom.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "London"
-                }
-              ]
-            },
-            {
-              "text": "She garnered 53 votes beating Joyce Watson of Wales who received 15 votes, Poto Williams of New Zealand (10 votes) and Linda Reid from Canada who received 9 votes.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joyce Watson"
-                },
-                {
-                  "type": "internal",
-                  "page": "Poto Williams"
-                },
-                {
-                  "type": "internal",
-                  "page": "Linda Reid"
-                }
-              ]
-            },
-            {
-              "text": "."
             }
           ]
         }
@@ -631,38 +543,55 @@
           "access-date": "6 August 2021",
           "template": "citation",
           "type": "news"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
         {
-          "url": "https://www.thestar.com.my/news/nation/2019/04/11/parit-sulong-mp-dr-noraini-ahmad-is-new-pac-chairman-after-voice-vote/",
-          "access-date": "11 April 2019",
-          "date": "11 April 2019",
-          "publisher": "The Star (Malaysia)",
-          "title": "Parit Sulong MP Dr Noraini Ahmad is new PAC chairman after voice vote",
-          "work": "Martin Carvalho, Hemananthani Sivanandam, Rahimy Rahim, and Tarrence Tan",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nst.com.my/news/politics/2018/06/382893/noraini-aims-bring-renewal-wanita-umno",
-          "title": "Noraini aims to bring renewal to Wanita Umno",
-          "date": "22 June 2018",
-          "work": "New Straits Times",
-          "access-date": "30 June 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.sinarharian.com.my/politik/puteri-beri-anugerah-khas-kepada-bekas-ketua-1.227245",
-          "title": "Puteri beri anugerah khas kepada bekas ketua",
-          "date": "4 December 2013",
-          "work": "Sinar Harian",
-          "access-date": "30 June 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "August 2021",
-          "template": "citation needed"
+          "sentences": [
+            {
+              "text": "She is a graduate of the University of Saskatchewan, Saskatoon, Canada where she obtained her Bachelor of Commerce (double major in quantitative analysis and finance) in 1991, followed by a master's degree in business administration (MBA) from Universiti Tun Abdul Razak (UNITAR) in 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Saskatchewan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Universiti Tun Abdul Razak"
+                }
+              ]
+            },
+            {
+              "text": "She subsequently obtained her Doctor of Philosophy (PhD) in Development Management from Universiti Utara Malaysia (UUM) in 2016."
+            },
+            {
+              "text": "She then enrolled into the Doctor of Business Administration (DBA) program at Asia e-University (AeU)."
+            },
+            {
+              "text": "The title of her DBA dissertation is “The Phenomenological Study of Women Entrepreneurs and their Impact on Socio-Economic Growth in Malaysia”.",
+              "formatting": {
+                "italic": [
+                  "The Phenomenological Study of Women Entrepreneurs and their Impact on Socio-Economic Growth in Malaysia"
+                ]
+              }
+            },
+            {
+              "text": "She will be one of the first Malaysians to complete the DBA in AeU via the APEL Q system."
+            },
+            {
+              "text": "She completed her viva on 11 November 2021 and received positive feedback on her dissertation from examiners who requested no further amendments/corrections upon submission."
+            },
+            {
+              "text": "They stated it was well written and the methodology was sound, which is a testament to her vast knowledge on women's entrepreneurship in Malaysia."
+            },
+            {
+              "text": "She completed her second PhD in April 2022."
+            }
+          ]
         }
       ]
     },
@@ -715,7 +644,7 @@
               ]
             },
             {
-              "text": "In the 2018 general election, Noraini was re-elected once again albeit with a decreased majority.",
+              "text": "In the 2018 general election, she was re-elected once again albeit with a decreased majority.",
               "links": [
                 {
                   "text": "2018 general election",
@@ -747,6 +676,38 @@
                   "page": "Commonwealth Parliamentary Association"
                 }
               ]
+            },
+            {
+              "text": "On the international fora she became the first Malaysian to be elected as chairman of Commonwealth Women Parliamentarians (CWP) from 2016 to 2019."
+            },
+            {
+              "text": "She was elected through voting at the 62nd Commonwealth Parliamentarians' Conference in London, United Kingdom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "London"
+                }
+              ]
+            },
+            {
+              "text": "She garnered 53 votes beating Joyce Watson of Wales who received 15 votes, Poto Williams of New Zealand (10 votes) and Linda Reid from Canada who received 9 votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joyce Watson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Poto Williams"
+                },
+                {
+                  "type": "internal",
+                  "page": "Linda Reid"
+                }
+              ]
+            },
+            {
+              "text": "."
             }
           ]
         }
@@ -776,6 +737,38 @@
           "access-date": "2020-08-04",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.thestar.com.my/news/nation/2019/04/11/parit-sulong-mp-dr-noraini-ahmad-is-new-pac-chairman-after-voice-vote/",
+          "access-date": "11 April 2019",
+          "date": "11 April 2019",
+          "publisher": "The Star (Malaysia)",
+          "title": "Parit Sulong MP Dr Noraini Ahmad is new PAC chairman after voice vote",
+          "work": "Martin Carvalho, Hemananthani Sivanandam, Rahimy Rahim, and Tarrence Tan",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nst.com.my/news/politics/2018/06/382893/noraini-aims-bring-renewal-wanita-umno",
+          "title": "Noraini aims to bring renewal to Wanita Umno",
+          "date": "22 June 2018",
+          "work": "New Straits Times",
+          "access-date": "30 June 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.sinarharian.com.my/politik/puteri-beri-anugerah-khas-kepada-bekas-ketua-1.227245",
+          "title": "Puteri beri anugerah khas kepada bekas ketua",
+          "date": "4 December 2013",
+          "work": "Sinar Harian",
+          "access-date": "30 June 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "August 2021",
+          "template": "citation needed"
         }
       ]
     },
@@ -1179,30 +1172,6 @@
                 "Dato"
               ]
             }
-          },
-          {
-            "text": "21st Century Partnership Program from Japanese Government - (2005)",
-            "formatting": {
-              "italic": [
-                "21st Century Partnership Program from Japanese Government"
-              ]
-            }
-          },
-          {
-            "text": "New Zealand's Prime Minister ASEAN Fellowship - (2005)",
-            "formatting": {
-              "italic": [
-                "New Zealand's Prime Minister ASEAN Fellowship"
-              ]
-            }
-          },
-          {
-            "text": "Chosen as 1990s' 10 People 10 Decades University of Saskathewan - (2017)",
-            "formatting": {
-              "italic": [
-                "Chosen as 1990s' 10 People 10 Decades University of Saskathewan"
-              ]
-            }
           }
         ]
       ],
@@ -1268,12 +1237,12 @@
       "lists": [
         [
           {
-            "text": "🇲🇾 Malaysia :",
+            "text": "🇮🇩 Indonesia :",
             "links": [
               {
-                "text": "Malaysia",
+                "text": "Indonesia",
                 "type": "internal",
-                "page": "malaysia"
+                "page": "indonesia"
               }
             ]
           },
@@ -1303,7 +1272,44 @@
       ]
     },
     {
-      "title": "Publications & Appearances",
+      "title": "Others",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "21st Century Partnership Program from Japanese Government - (2005)",
+            "formatting": {
+              "italic": [
+                "21st Century Partnership Program from Japanese Government"
+              ]
+            }
+          },
+          {
+            "text": "New Zealand's Prime Minister ASEAN Fellowship - (2005)",
+            "formatting": {
+              "italic": [
+                "New Zealand's Prime Minister ASEAN Fellowship"
+              ]
+            }
+          },
+          {
+            "text": "Chosen as 1990s' 10 People 10 Decades University of Saskathewan - (2017)",
+            "formatting": {
+              "italic": [
+                "Chosen as 1990s' 10 People 10 Decades University of Saskathewan"
+              ]
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Publications and appearances",
       "depth": 0,
       "paragraphs": [
         {
@@ -1313,9 +1319,9 @@
       "lists": [
         [
           {
-            "text": "A Change in Narrative to Break the Bias – BERNAMA/ The Malaysia Reserve, 2022",
+            "text": "A Change in Narrative to Break the Bias – BERNAMA & The Malaysia Reserve, 2022",
             "formatting": {
-              "bold": [
+              "italic": [
                 "A Change in Narrative to Break the Bias"
               ]
             }
@@ -1323,15 +1329,15 @@
           {
             "text": "Let's Call Out Gender Bias Daily - New Straits Times, 2022",
             "formatting": {
-              "bold": [
-                "Let's Call Out Gender Bias Dail"
+              "italic": [
+                "Let's Call Out Gender Bias Daily"
               ]
             }
           },
           {
             "text": "Pushing Education for Sustainable Development to Greater Heights - New Straits Times, 2022",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Pushing Education for Sustainable Development to Greater Heights"
               ]
             }
@@ -1339,7 +1345,7 @@
           {
             "text": "Sustainable Higher Education in Malaysia – BERNAMA, 2022",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Sustainable Higher Education in Malaysia"
               ]
             }
@@ -1347,7 +1353,7 @@
           {
             "text": "Appreciating Our Language, Our Cultural Heritage - The Malaysia Reserve, 2021",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Appreciating Our Language, Our Cultural Heritage"
               ]
             }
@@ -1355,23 +1361,23 @@
           {
             "text": "Honouring Higher Education Educators - The Star, 2021",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Honouring Higher Education Educators"
               ]
             }
           },
           {
-            "text": "Where Ideas Become Reality - New Straits Times, 2021",
+            "text": "'Where Ideas Become Reality - New Straits Times, 2021",
             "formatting": {
-              "bold": [
-                "Where Ideas Become Reality"
+              "italic": [
+                "'Where Ideas Become Reality"
               ]
             }
           },
           {
             "text": "Students Rise by Lifting Others - Free Malaysia Today, 2021",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Students Rise by Lifting Others"
               ]
             }
@@ -1379,7 +1385,7 @@
           {
             "text": "Varsities Develop Future Leaders - New Straits Times, 2021",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Varsities Develop Future Leaders"
               ]
             }
@@ -1387,7 +1393,7 @@
           {
             "text": "Celebrating the Success of Women in Higher Education - The Star, 2021",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Celebrating the Success of Women in Higher Education"
               ]
             }
@@ -1395,7 +1401,7 @@
           {
             "text": "Simplifying Accommodation Search - New Straits Times, 2021",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Simplifying Accommodation Search"
               ]
             }
@@ -1403,7 +1409,7 @@
           {
             "text": "PENJANA KPT-CAP to Boost Graduate Employability - New Straits Times, 2020",
             "formatting": {
-              "bold": [
+              "italic": [
                 "PENJANA KPT-CAP to Boost Graduate Employability"
               ]
             }
@@ -1411,23 +1417,23 @@
           {
             "text": "Speech at the opening of the CWP Conference - The Parliamentarian, 2019",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Speech at the opening of the CWP Conference"
               ]
             }
           },
           {
-            "text": "The Commonwealth: Adding political value to global affairs in the 21st century - The Parliamentarian 2019, 2019",
+            "text": "The Commonwealth: Adding political value to global affairs in the 21st century - The Parliamentarian, 2019",
             "formatting": {
-              "bold": [
+              "italic": [
                 "The Commonwealth: Adding political value to global affairs in the 21st century"
               ]
             }
           },
           {
-            "text": "Women's Suffrage: A prerequisite to the gender equality agenda - The Parliamentarian 2019",
+            "text": "Women's Suffrage: A prerequisite to the gender equality agenda - The Parliamentarian, 2019",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Women's Suffrage: A prerequisite to the gender equality agenda"
               ]
             }
@@ -1435,7 +1441,7 @@
           {
             "text": "Cyber Harassment Against Woman on Social Media - The Parliamentarian, 2019",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Cyber Harassment Against Woman on Social Media"
               ]
             }
@@ -1443,7 +1449,7 @@
           {
             "text": "Economic Rights for Women - The Parliamentarian, 2018",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Economic Rights for Women"
               ]
             }
@@ -1451,7 +1457,7 @@
           {
             "text": "View from the CWP Chairperson - Women and democracy in Malaysia - The Parliamentarian, 2018",
             "formatting": {
-              "bold": [
+              "italic": [
                 "View from the CWP Chairperson - Women and democracy in Malaysia"
               ]
             }
@@ -1459,15 +1465,15 @@
           {
             "text": "If we want genuine positive change in the world, we need more women leaders. How can we persuade the word that the future is dependent on gender equality? - The Parliamentarian, 2017",
             "formatting": {
-              "bold": [
+              "italic": [
                 "If we want genuine positive change in the world, we need more women leaders. How can we persuade the word that the future is dependent on gender equality?"
               ]
             }
           },
           {
-            "text": "Women and Disabilities - The Parliamentarian 2017",
+            "text": "Women and Disabilities - The Parliamentarian, 2017",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Women and Disabilities"
               ]
             }
@@ -1475,7 +1481,7 @@
           {
             "text": "Networking between Parliaments and creating alliances - The Parliamentarian, 2017",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Networking between Parliaments and creating alliances"
               ]
             }
@@ -1483,7 +1489,7 @@
           {
             "text": "Job creation and growth: solutions to inequality - The Parliamentarian, 2017",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Job creation and growth: solutions to inequality"
               ]
             }
@@ -1491,7 +1497,7 @@
           {
             "text": "Parliamentary Conference on the WTO - The Parliamentarian, 2017",
             "formatting": {
-              "bold": [
+              "italic": [
                 "Parliamentary Conference on the WTO"
               ]
             }
