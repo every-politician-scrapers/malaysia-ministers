@@ -267,7 +267,13 @@
             ]
           },
           "image": {
-            "text": "Dato'_Seri_Ahmad_Faizal_Dato'_Haji_Azumu.jpg"
+            "text": "Ahmad Faizal Azumu 2022 (cropped).jpg"
+          },
+          "image_size": {
+            "text": "200px"
+          },
+          "caption": {
+            "text": "Faizal in 2022"
           },
           "office5": {
             "text": "Ministerial roles"
@@ -925,6 +931,58 @@
           "template": "citation",
           "type": "news"
         }
+      ]
+    },
+    {
+      "title": "Filmography",
+      "depth": 0
+    },
+    {
+      "title": "Drama",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "Year": {
+              "text": "2022",
+              "number": 2022
+            },
+            "Title": {
+              "text": "Ratu Ten Pin 2",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ratu Ten Pin 2"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Ratu Ten Pin 2"
+                ]
+              }
+            },
+            "Role": {
+              "text": "Pak Peja"
+            },
+            "TV channels": {
+              "text": "Astro Ria",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Astro Ria"
+                }
+              ]
+            },
+            "Notes": {
+              "text": "Special Appearances in Drama Ratu Ten Pin 2",
+              "formatting": {
+                "italic": [
+                  "Ratu Ten Pin 2"
+                ]
+              }
+            }
+          }
+        ]
       ]
     },
     {

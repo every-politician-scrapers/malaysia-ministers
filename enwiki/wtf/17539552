@@ -160,7 +160,7 @@
         {
           "list": [
             "Arab",
-            "تڠکو ظفرول بن تڠکو عبدالعزيز"
+            "تڠکو ظفرول"
           ],
           "template": "script"
         },
@@ -497,11 +497,12 @@
             ]
           },
           "party": {
-            "text": "United Malays National Organisation (UMNO)",
+            "text": "Independent",
             "links": [
               {
+                "text": "Independent",
                 "type": "internal",
-                "page": "United Malays National Organisation"
+                "page": "Independent politician"
               }
             ]
           },
@@ -1111,130 +1112,6 @@
           "access-date": "2022-06-26",
           "template": "citation",
           "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Controversies",
-      "depth": 0
-    },
-    {
-      "title": "51% Bumiputra Logistic Equity Control Policy",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "On 27 September 2021, the Cabinet of Malaysia has sparked criticism after he announced a new equity policy for Bumiputera companies under the five-year development plan, Twelfth Malaysia Plan (12MP), which was tabled by him in Parliament.",
-              "links": [
-                {
-                  "text": "Bumiputera",
-                  "type": "internal",
-                  "page": "Bumiputera (Malaysia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Twelfth Malaysia Plan"
-                }
-              ]
-            },
-            {
-              "text": "The policy is said to ensure sustainable equity holdings by Bumiputeras, an equity safety net would be launched to guarantee that the sale of shares or Bumiputera firms would only be sold solely to Bumiputera companies, consortiums or individuals."
-            },
-            {
-              "text": "Syed Saddiq mentioned that the new rulings were unfair as they would be tantamount to taking equity from the non-bumiputeras and giving them to bumiputeras.",
-              "links": [
-                {
-                  "text": "Syed Saddiq",
-                  "type": "internal",
-                  "page": "Syed Saddiq Syed Abdul Rahman"
-                }
-              ]
-            },
-            {
-              "text": "Former Health Minister, Dzulkefly Ahmad had also described the policy as \"suicidal\" and claimed that the new policy would only kill the Bumiputera companies economically if that is their intention.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Dzulkefly Ahmad"
-                }
-              ]
-            },
-            {
-              "text": "He also said that based on the feedback from Malay businessmen, most were against the idea of the new Bumiputera-only policy being implemented."
-            },
-            {
-              "text": "Ismail Sabri announced it after revealing that the government’s target to raise Bumiputera equity ownership to 30% had yet to be achieved."
-            },
-            {
-              "text": "He also announced fundings to improve Bumiputera businesses’ sustainability to hit 15% contribution in gross domestic product (GDP) by Bumiputera micro, small and medium enterprises by 2025.",
-              "links": [
-                {
-                  "text": "gross domestic product",
-                  "type": "internal",
-                  "page": "gross domestic product"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "date": "2021-09-28",
-          "title": "Rave reviews for 12MP, but Ismail Sabri’s Bumi focus splits opinions",
-          "url": "https://www.thevibes.com/articles/news/42842/rave-reviews-for-12mp-but-ismail-sabris-bumi-focus-splits-opinions",
-          "access-date": "2021-10-04",
-          "website": "The Vibes",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Anand",
-          "first": "Ram",
-          "date": "2021-09-29",
-          "title": "Malaysian PM Ismail's push on bumiputera equity faces criticism in country",
-          "language": "en",
-          "work": "The Straits Times",
-          "url": "https://www.straitstimes.com/asia/se-asia/ismails-push-on-bumiputera-equity-faces-criticism-in-malaysia",
-          "access-date": "2021-10-04",
-          "issn": "0585-3923",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "The 12th Malaysia Plan and what people think of it",
-          "work": "Free Malaysia Today",
-          "url": "https://www.freemalaysiatoday.com/category/nation/2021/10/01/the-12th-malaysia-plan-and-what-people-think-of-it/",
-          "access-date": "1 October 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Former minister calls govt’s Bumi equity safety net ‘suicidal’, claims Malay businessmen not keen",
-          "url": "https://malaysia.news.yahoo.com/former-minister-calls-govt-bumi-083357557.html",
-          "access-date": "2021-10-04",
-          "website": "malaysia.news.yahoo.com",
-          "language": "en-MY",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Big challenge to find bumi businessmen willing to take up 51% equity, say freight forwarders’ associations",
-          "url": "https://www.thestar.com.my/news/nation/2021/09/24/big-challenge-to-find-bumi-businessmen-willing-to-take-up-51-equity-say-freight-forwarders-associations",
-          "work": "The Star",
-          "accessdate": "9 October 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Bumiputera’s 51% equity in logistics: A case of “robbing Peter to pay Paul”",
-          "url": "https://focusmalaysia.my/bumiputeras-51-equity-in-logistics-a-case-of-robbing-peter-to-pay-paul/",
-          "work": "Malaysia Kini",
-          "accessdate": "9 October 2021",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
