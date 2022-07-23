@@ -10,7 +10,10 @@
     "Malaysian people of Turkish descent",
     "Malaysian people of Malay descent",
     "Malaysian people of Bugis descent",
+    "20th-century Malaysian politicians",
+    "21st-century Malaysian politicians",
     "20th-century Malaysian lawyers",
+    "21st-century Malaysian lawyers",
     "United Malays National Organisation politicians",
     "Members of the Dewan Rakyat",
     "Government ministers of Malaysia",
@@ -25,8 +28,7 @@
     "Children of prime ministers of Malaysia",
     "Knights Commander of the Order of the Crown of Johor",
     "Knights Commander of the Most Exalted Order of the Star of Sarawak",
-    "Grand Commanders of the Order of Kinabalu",
-    "21st-century Malaysian politicians"
+    "Grand Commanders of the Order of Kinabalu"
   ],
   "sections": [
     {
@@ -36,25 +38,21 @@
         {
           "sentences": [
             {
-              "text": "Hishammuddin bin Hussein (Jawi: هشام الدين بن حسين; born 5 August 1961) is a Malaysian politician who has served as Senior Minister in charge of Defence and Minister of Defence for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Dato' Seri Hishammuddin bin Tun Hussein (Jawi: هشام الدين بن حسين; born 5 August 1961) is a Malaysian politician who has served as Senior Minister of the Security Cluster and as Minister of Defence since August 2021.",
               "links": [
+                {
+                  "text": "Dato' Seri",
+                  "type": "internal",
+                  "page": "Malay titles",
+                  "anchor": "Dato' Seri"
+                },
                 {
                   "text": "Jawi",
                   "type": "internal",
                   "page": "Jawi alphabet"
                 },
                 {
-                  "text": "Malaysian",
-                  "type": "internal",
-                  "page": "Malaysian people"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Senior Minister",
+                  "text": "Senior Minister of the Security Cluster",
                   "type": "internal",
                   "page": "Senior Minister of Malaysia"
                 },
@@ -62,55 +60,29 @@
                   "text": "Minister of Defence",
                   "type": "internal",
                   "page": "Minister of Defence (Malaysia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hishammuddin bin Tun Hussein"
+                ]
+              }
+            },
+            {
+              "text": "A member of the United Malays National Organisation (UMNO), which is the component party of ruling coalition Barisan Nasional (BN), he has been Member of Parliament (MP) for Sembrong since March 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Malays National Organisation"
                 },
                 {
                   "type": "internal",
                   "page": "Barisan Nasional"
                 },
                 {
+                  "text": "Member of Parliament",
                   "type": "internal",
-                  "page": "Ismail Sabri Yaakob"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Hishammuddin bin Hussein"
-                ]
-              }
-            },
-            {
-              "text": "He served his first term in the BN administration under former Prime Minister Najib Razak from May 2013 to May 2018, Senior Minister in charge of Security from July 2021 to August 2021, Minister of Foreign Affairs in the Perikatan Nasional (PN) administration under former Prime Minister Muhyiddin Yassin from March 2020 to August 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Najib Razak"
-                },
-                {
-                  "text": "Senior Minister",
-                  "type": "internal",
-                  "page": "Senior Minister of Malaysia"
-                },
-                {
-                  "text": "Minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Minister of Foreign Affairs (Malaysia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Perikatan Nasional"
-                },
-                {
-                  "type": "internal",
-                  "page": "Muhyiddin Yassin"
-                }
-              ]
-            },
-            {
-              "text": "He has also served as Member of Parliament (MP) for Sembrong since March 2004.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
+                  "page": "Member of Parliament (Malaysia)"
                 },
                 {
                   "text": "Sembrong",
@@ -118,52 +90,140 @@
                   "page": "Sembrong (federal constituency)"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "He also served as the Minister in the Prime Minister's Department, Minister of Defence, Minister of Education, Minister of Home Affairs and Minister of Youth and Sports, Deputy Minister of Primary Industries and Parliamentary Secretary of International Trade and Industry and Najib Razak from April 1995 to the collapse of the BN administration in May 2018 as well as MP for Tenggara from April 1995 to March 2004.",
+              "text": "Hishammuddin was born in Johor Bahru to Hussein Onn and Suhailah Noah.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Minister in the Prime Minister's Department"
-                },
-                {
-                  "text": "Minister of Defence",
-                  "type": "internal",
-                  "page": "Minister of Defence (Malaysia)"
-                },
-                {
-                  "text": "Minister of Education",
-                  "type": "internal",
-                  "page": "Minister of Education (Malaysia)"
-                },
-                {
-                  "text": "Minister of Home Affairs",
-                  "type": "internal",
-                  "page": "Minister of Home Affairs (Malaysia)"
-                },
-                {
-                  "text": "Minister of Youth and Sports",
-                  "type": "internal",
-                  "page": "Minister of Youth and Sports (Malaysia)"
-                },
-                {
-                  "text": "Deputy Minister of Primary Industries",
-                  "type": "internal",
-                  "page": "Minister of Plantation Industries and Commodities (Malaysia)"
-                },
-                {
-                  "text": "Parliamentary Secretary of International Trade and Industry",
-                  "type": "internal",
-                  "page": "Ministry of International Trade and Industry (Malaysia)"
+                  "page": "Johor Bahru"
                 },
                 {
                   "type": "internal",
-                  "page": "Najib Razak"
+                  "page": "Hussein Onn"
+                },
+                {
+                  "type": "internal",
+                  "page": "Suhailah Noah"
+                }
+              ]
+            },
+            {
+              "text": "His father was the third prime minister of Malaysia.",
+              "links": [
+                {
+                  "text": "prime minister of Malaysia",
+                  "type": "internal",
+                  "page": "prime minister of Malaysia"
+                }
+              ]
+            },
+            {
+              "text": "He attended Malay College Kuala Kangsar, St. John's Institution, Alice Smith School, and Cheltenham College.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malay College Kuala Kangsar"
+                },
+                {
+                  "type": "internal",
+                  "page": "St. John's Institution"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cheltenham College"
+                }
+              ]
+            },
+            {
+              "text": "He then graduated with a Bachelor of Laws from Aberystwyth University and later with a Master of Laws from the London School of Economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Laws"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aberystwyth University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Master of Laws"
+                },
+                {
+                  "type": "internal",
+                  "page": "London School of Economics"
+                }
+              ]
+            },
+            {
+              "text": "He then began his career as a lawyer.",
+              "links": [
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On his return from UK, Hishammuddin joined UMNO."
+            },
+            {
+              "text": "He was first elected to Dewan Rakyat in the 1995 election, winning the seat of Tenggara.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dewan Rakyat"
+                },
+                {
+                  "text": "1995 election",
+                  "type": "internal",
+                  "page": "1995 Malaysian general election"
                 },
                 {
                   "text": "Tenggara",
                   "type": "internal",
                   "page": "Tenggara (federal constituency)"
+                }
+              ]
+            },
+            {
+              "text": "He was later appointed deputy minister and was promoted to full minister in 1999."
+            },
+            {
+              "text": "In 1999, he was elected as UMNO's youth chief, and subsequently as its vice president in 2009."
+            },
+            {
+              "text": "Since then, he has held various ministerial positions until the defeat of BN in the 2018 election.",
+              "links": [
+                {
+                  "text": "ministerial positions",
+                  "type": "internal",
+                  "page": "Minister (government)"
+                },
+                {
+                  "text": "2018 election",
+                  "type": "internal",
+                  "page": "2018 Malaysian general election"
+                }
+              ]
+            },
+            {
+              "text": "Despite the defeat, he managed to retain his Sembrong seat.",
+              "links": [
+                {
+                  "text": "Sembrong",
+                  "type": "internal",
+                  "page": "Sembrong (federal constituency)"
                 }
               ]
             }
@@ -197,6 +257,69 @@
             "هشام الدين حسين"
           ],
           "template": "script"
+        },
+        {
+          "list": [
+            "Abdul Halim",
+            "Muhammad V"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Mizan Zainal Abidin",
+            "Abdul Halim"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Najib Razak",
+            "Ahmad Zahid Hamidi (acting)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Sirajuddin",
+            "Mizan Zainal Abidin"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Abdullah Ahmad Badawi",
+            "Najib Razak"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Salahuddin",
+            "Sirajuddin"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Mahathir Mohamad",
+            "Abdullah Ahmad Badawi"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Mahathir Mohamad",
+            "Abdullah Ahmad Badawi"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Ja'afar",
+            "Salahuddin"
+          ],
+          "template": "unbulleted list"
         },
         {
           "year": "1961",
@@ -290,106 +413,241 @@
             "text": "Potrait of Hishammuddin Hussein.jpg"
           },
           "caption": {
-            "text": "Hishammuddin in 2021"
+            "text": "Official portrait, 2021"
           },
-          "office5": {
-            "text": "Ministerial roles"
-          },
-          "subterm5": {
-            "text": "1995–1996"
-          },
-          "suboffice5": {
-            "text": "Parliamentary Secretary of International Trade and Industry",
+          "office": {
+            "text": "Senior Minister of Security Cluster",
             "links": [
               {
-                "text": "Parliamentary Secretary of International Trade and Industry",
+                "text": "Senior Minister of Security Cluster",
                 "type": "internal",
-                "page": "Minister of International Trade and Industry (Malaysia)"
+                "page": "Senior Minister of Malaysia"
               }
             ]
           },
-          "subterm6": {
-            "text": "1996–1999"
+          "term_start": {
+            "text": "29 August 2021"
           },
-          "suboffice6": {
-            "text": "Deputy Minister of Primary Industries",
+          "monarch": {
+            "text": "Abdullah",
             "links": [
               {
-                "text": "Deputy Minister of Primary Industries",
+                "text": "Abdullah",
                 "type": "internal",
-                "page": "Minister of Plantation Industries and Commodities (Malaysia)"
+                "page": "Abdullah of Pahang"
               }
             ]
           },
-          "subterm7": {
-            "text": "1999–2004"
-          },
-          "suboffice7": {
-            "text": "Minister of Youth and Sports",
+          "primeminister": {
+            "text": "Ismail Sabri Yaakob",
             "links": [
               {
-                "text": "Minister of Youth and Sports",
                 "type": "internal",
-                "page": "Ministry of Youth and Sports (Malaysia)"
+                "page": "Ismail Sabri Yaakob"
               }
             ]
           },
-          "subterm8": {
-            "text": "2004–2009"
+          "predecessor": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
           },
-          "suboffice8": {
-            "text": "Minister of Education",
+          "term_start1": {
+            "text": "7 July 2021"
+          },
+          "term_end1": {
+            "text": "16 August 2021"
+          },
+          "monarch1": {
+            "text": "Abdullah"
+          },
+          "primeminister1": {
+            "text": "Muhyiddin Yassin",
             "links": [
               {
-                "text": "Minister of Education",
                 "type": "internal",
-                "page": "Ministry of Education (Malaysia)"
+                "page": "Muhyiddin Yassin"
               }
             ]
           },
-          "subterm9": {
-            "text": "2009–2013"
+          "predecessor1": {
+            "text": "Ismail Sabri Yaakob"
           },
-          "suboffice9": {
-            "text": "Minister of Home Affairs",
-            "links": [
-              {
-                "text": "Minister of Home Affairs",
-                "type": "internal",
-                "page": "Ministry of Home Affairs (Malaysia)"
-              }
-            ]
+          "successor1": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
           },
-          "subterm10": {
-            "text": "2013–2018"
-          },
-          "suboffice10": {
+          "office2": {
             "text": "Minister of Defence",
             "links": [
               {
                 "text": "Minister of Defence",
                 "type": "internal",
-                "page": "Ministry of Defence (Malaysia)"
+                "page": "Minister of Defence (Malaysia)"
               }
             ]
           },
-          "subterm11": {
-            "text": "2013–2014"
+          "term_start2": {
+            "text": "29 August 2021"
           },
-          "suboffice11": {
-            "text": "Acting Minister of Transport",
+          "monarch2": {
+            "text": "Abdullah"
+          },
+          "primeminister2": {
+            "text": "Ismail Sabri Yaakob"
+          },
+          "predecessor2": {
+            "text": "Ismail Sabri Yaakob"
+          },
+          "term_start3": {
+            "text": "16 May 2013"
+          },
+          "term_end3": {
+            "text": "9 May 2018"
+          },
+          "monarch3": {
+            "text": "Abdul Halim\n\nMuhammad V"
+          },
+          "primeminister3": {
+            "text": "Najib Razak",
             "links": [
               {
-                "text": "Acting Minister of Transport",
                 "type": "internal",
-                "page": "Ministry of Transport (Malaysia)"
+                "page": "Najib Razak"
               }
             ]
           },
-          "subterm12": {
-            "text": "2017–2018"
+          "predecessor3": {
+            "text": "Ahmad Zahid Hamidi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmad Zahid Hamidi"
+              }
+            ]
           },
-          "suboffice12": {
+          "successor3": {
+            "text": "Mohamad Sabu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamad Sabu"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Treasurer General of Barisan Nasional",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barisan Nasional"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "23 October 2020"
+          },
+          "1blankname4": {
+            "text": "Chairman"
+          },
+          "1namedata4": {
+            "text": "Ahmad Zahid Hamidi"
+          },
+          "predecessor4": {
+            "text": "Tengku Adnan Tengku Mansor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tengku Adnan Tengku Mansor"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Malaysia)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "10 March 2020"
+          },
+          "term_end5": {
+            "text": "16 August 2021"
+          },
+          "monarch5": {
+            "text": "Abdullah"
+          },
+          "primeminister5": {
+            "text": "Muhyiddin Yassin"
+          },
+          "predecessor5": {
+            "text": "Saifuddin Abdullah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saifuddin Abdullah"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Saifuddin Abdullah"
+          },
+          "office6": {
+            "text": "Deputy President of the United Malays National Organisation",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Malays National Organisation"
+              }
+            ]
+          },
+          "status6": {
+            "text": "Acting"
+          },
+          "term_start6": {
+            "text": "12 May 2018"
+          },
+          "term_end6": {
+            "text": "30 June 2018"
+          },
+          "president6": {
+            "text": "Ahmad Zahid Hamidi (acting)",
+            "formatting": {
+              "italic": [
+                "acting"
+              ]
+            }
+          },
+          "predecessor6": {
+            "text": "Ahmad Zahid Hamidi (acting)",
+            "formatting": {
+              "italic": [
+                "acting"
+              ]
+            }
+          },
+          "successor6": {
+            "text": "Mohamad Hasan",
+            "links": [
+              {
+                "text": "Mohamad Hasan",
+                "type": "internal",
+                "page": "Mohamad Hasan (politician)"
+              }
+            ]
+          },
+          "office7": {
             "text": "Minister with Special Functions",
             "links": [
               {
@@ -399,47 +657,113 @@
               }
             ]
           },
-          "subterm13": {
-            "text": "2020–2021"
+          "term_start7": {
+            "text": "12 April 2017"
           },
-          "suboffice13": {
-            "text": "Minister of Foreign Affairs",
+          "term_end7": {
+            "text": "9 May 2018"
+          },
+          "monarch7": {
+            "text": "Muhammad V"
+          },
+          "primeminister7": {
+            "text": "Najib Razak"
+          },
+          "predecessor7": {
+            "text": "Office restored",
+            "formatting": {
+              "italic": [
+                "Office restored"
+              ]
+            }
+          },
+          "successor7": {
+            "text": "Office vacated",
+            "formatting": {
+              "italic": [
+                "Office vacated"
+              ]
+            }
+          },
+          "office8": {
+            "text": "Minister of Transport",
             "links": [
               {
-                "text": "Minister of Foreign Affairs",
+                "text": "Minister of Transport",
                 "type": "internal",
-                "page": "Ministry of Foreign Affairs (Malaysia)"
+                "page": "Minister of Transport (Malaysia)"
               }
             ]
           },
-          "subterm14": {
-            "text": "2021–"
+          "status8": {
+            "text": "Acting"
           },
-          "suboffice14": {
-            "text": "Senior Minister",
+          "term_start8": {
+            "text": "16 May 2013"
+          },
+          "term_end8": {
+            "text": "24 June 2014"
+          },
+          "monarch8": {
+            "text": "Abdul Halim"
+          },
+          "primeminister8": {
+            "text": "Najib Razak"
+          },
+          "predecessor8": {
+            "text": "Kong Cho Ha",
             "links": [
               {
-                "text": "Senior Minister",
                 "type": "internal",
-                "page": "Senior Minister of Malaysia"
+                "page": "Kong Cho Ha"
               }
             ]
           },
-          "subterm15": {
-            "text": "2021–"
-          },
-          "suboffice15": {
-            "text": "Minister of Defence",
+          "successor8": {
+            "text": "Liow Tiong Lai",
             "links": [
               {
-                "text": "Minister of Defence",
                 "type": "internal",
-                "page": "Ministry of Defence (Malaysia)"
+                "page": "Liow Tiong Lai"
               }
             ]
           },
-          "office": {
-            "text": "Vice President of the\nUnited Malays National Organisation\n(Acting Deputy President: 12 May 2018 – 30 June 2018)",
+          "office9": {
+            "text": "Minister of Home Affairs",
+            "links": [
+              {
+                "text": "Minister of Home Affairs",
+                "type": "internal",
+                "page": "Minister of Home Affairs (Malaysia)"
+              }
+            ]
+          },
+          "term_start9": {
+            "text": "10 April 2009"
+          },
+          "term_end9": {
+            "text": "20 April 2013"
+          },
+          "monarch9": {
+            "text": "Mizan Zainal Abidin\n\nAbdul Halim"
+          },
+          "primeminister9": {
+            "text": "Najib Razak"
+          },
+          "predecessor9": {
+            "text": "Syed Hamid Albar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Syed Hamid Albar"
+              }
+            ]
+          },
+          "successor9": {
+            "text": "Ahmad Zahid Hamidi"
+          },
+          "office10": {
+            "text": "Vice President of the United Malays National Organisation",
             "links": [
               {
                 "type": "internal",
@@ -447,52 +771,16 @@
               }
             ]
           },
-          "term_start": {
+          "term_start10": {
             "text": "26 March 2009"
           },
-          "term_end": {
+          "term_end10": {
             "text": "30 June 2018"
           },
-          "president": {
-            "text": "Najib Razak\nAhmad Zahid Hamidi (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Najib Razak"
-              },
-              {
-                "type": "internal",
-                "page": "Ahmad Zahid Hamidi"
-              }
-            ]
+          "president10": {
+            "text": "Najib Razak\n\nAhmad Zahid Hamidi (acting)"
           },
-          "deputy": {
-            "text": "Muhyiddin Yassin (2009-2016)\nAhmad Zahid Hamidi (Acting) (2016–2018)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhyiddin Yassin"
-              },
-              {
-                "type": "internal",
-                "page": "Ahmad Zahid Hamidi"
-              }
-            ]
-          },
-          "alongside": {
-            "text": "Ahmad Zahid Hamidi, Shafie Apdal (2009–2016)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmad Zahid Hamidi"
-              },
-              {
-                "type": "internal",
-                "page": "Shafie Apdal"
-              }
-            ]
-          },
-          "predecessor": {
+          "predecessor10": {
             "text": "Mohd Ali Rustam",
             "links": [
               {
@@ -501,7 +789,7 @@
               }
             ]
           },
-          "successor": {
+          "successor10": {
             "text": "Mohamed Khaled Nordin",
             "links": [
               {
@@ -510,8 +798,125 @@
               }
             ]
           },
-          "office1": {
-            "text": "12th Youth Chief of the\nUnited Malays National Organisation",
+          "office11": {
+            "text": "Minister of Education",
+            "links": [
+              {
+                "text": "Minister of Education",
+                "type": "internal",
+                "page": "Minister of Education (Malaysia)"
+              }
+            ]
+          },
+          "term_start11": {
+            "text": "27 March 2004"
+          },
+          "term_end11": {
+            "text": "10 April 2009"
+          },
+          "monarch11": {
+            "text": "Sirajuddin\n\nMizan Zainal Abidin"
+          },
+          "primeminister11": {
+            "text": "Abdullah Ahmad Badawi\n\nNajib Razak"
+          },
+          "predecessor11": {
+            "text": "Musa Mohamad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Musa Mohamad"
+              }
+            ]
+          },
+          "successor11": {
+            "text": "Muhyiddin Yassin"
+          },
+          "parliament12": {
+            "text": "Malaysian"
+          },
+          "constituency_mp12": {
+            "text": "Sembrong",
+            "links": [
+              {
+                "text": "Sembrong",
+                "type": "internal",
+                "page": "Sembrong (federal constituency)"
+              }
+            ]
+          },
+          "term_start12": {
+            "text": "21 March 2004"
+          },
+          "majority12": {
+            "text": "16,978 (2004) 11,570 (2008) 10,631 (2013) 6,662 (2018)",
+            "links": [
+              {
+                "text": "2004",
+                "type": "internal",
+                "page": "2004 Malaysian general election"
+              },
+              {
+                "text": "2008",
+                "type": "internal",
+                "page": "2008 Malaysian general election"
+              },
+              {
+                "text": "2013",
+                "type": "internal",
+                "page": "2013 Malaysian general election"
+              },
+              {
+                "text": "2018",
+                "type": "internal",
+                "page": "2018 Malaysian general election"
+              }
+            ]
+          },
+          "predecessor12": {
+            "text": "Constituency established",
+            "formatting": {
+              "italic": [
+                "Constituency established"
+              ]
+            }
+          },
+          "office13": {
+            "text": "Minister of Youth and Sports",
+            "links": [
+              {
+                "text": "Minister of Youth and Sports",
+                "type": "internal",
+                "page": "Minister of Youth and Sports (Malaysia)"
+              }
+            ]
+          },
+          "term_start13": {
+            "text": "15 December 1999"
+          },
+          "term_end13": {
+            "text": "26 March 2004"
+          },
+          "monarch13": {
+            "text": "Salahuddin\n\nSirajuddin"
+          },
+          "primeminister13": {
+            "text": "Mahathir Mohamad\n\nAbdullah Ahmad Badawi"
+          },
+          "predecessor13": {
+            "text": "Muhyiddin Yassin"
+          },
+          "successor13": {
+            "text": "Azalina Othman Said",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Azalina Othman Said"
+              }
+            ]
+          },
+          "office14": {
+            "text": "12th Youth Chief of the United Malays National Organisation",
             "links": [
               {
                 "type": "internal",
@@ -519,37 +924,21 @@
               }
             ]
           },
-          "president1": {
-            "text": "Mahathir Mohamad\nAbdullah Ahmad Badawi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahathir Mohamad"
-              },
-              {
-                "type": "internal",
-                "page": "Abdullah Ahmad Badawi"
-              }
-            ]
-          },
-          "term_start1": {
+          "term_start14": {
             "text": "1999",
             "number": 1999
           },
-          "term_end1": {
+          "term_end14": {
             "text": "2009",
             "number": 2009
           },
-          "predecessor1": {
-            "text": "Ahmad Zahid Hamidi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmad Zahid Hamidi"
-              }
-            ]
+          "president14": {
+            "text": "Mahathir Mohamad\n\nAbdullah Ahmad Badawi"
           },
-          "successor1": {
+          "predecessor14": {
+            "text": "Ahmad Zahid Hamidi"
+          },
+          "successor14": {
             "text": "Khairy Jamaluddin",
             "links": [
               {
@@ -558,38 +947,102 @@
               }
             ]
           },
-          "office2": {
-            "text": "Treasurer-General of Barisan Nasional",
+          "office15": {
+            "text": "Deputy Minister of Primary Industries",
             "links": [
               {
+                "text": "Deputy Minister of Primary Industries",
                 "type": "internal",
-                "page": "Barisan Nasional"
+                "page": "Ministers of Plantation Industries and Commodities (Malaysia)"
               }
             ]
           },
-          "term_start2": {
-            "text": "23 October 2020"
+          "term_start15": {
+            "text": "12 November 1996"
           },
-          "1blankname2": {
-            "text": "Chairman"
+          "term_end15": {
+            "text": "14 December 1999"
           },
-          "1namedata2": {
-            "text": "Ahmad Zahid Hamidi",
+          "monarch15": {
+            "text": "Ja'afar\n\nSalahuddin"
+          },
+          "primeminister15": {
+            "text": "Mahathir Mohamad"
+          },
+          "minister15": {
+            "text": "Lim Keng Yaik",
             "links": [
               {
                 "type": "internal",
-                "page": "Ahmad Zahid Hamidi"
+                "page": "Lim Keng Yaik"
               }
             ]
           },
-          "predecessor2": {
-            "text": "Tengku Adnan Tengku Mansor",
+          "predecessor15": {
+            "text": "Siti Zainaboon Abu Bakar"
+          },
+          "successor15": {
+            "text": "Anifah Aman",
             "links": [
               {
                 "type": "internal",
-                "page": "Tengku Adnan Tengku Mansor"
+                "page": "Anifah Aman"
               }
             ]
+          },
+          "parliament16": {
+            "text": "Malaysian"
+          },
+          "constituency_mp16": {
+            "text": "Tenggara",
+            "links": [
+              {
+                "text": "Tenggara",
+                "type": "internal",
+                "page": "Tenggara (federal constituency)"
+              }
+            ]
+          },
+          "term_start16": {
+            "text": "24 April 1995"
+          },
+          "term_end16": {
+            "text": "21 March 2004"
+          },
+          "majority16": {
+            "text": "24,518 (1995) 20,817 (1999)",
+            "links": [
+              {
+                "text": "1995",
+                "type": "internal",
+                "page": "1995 Malaysian general election"
+              },
+              {
+                "text": "1999",
+                "type": "internal",
+                "page": "1999 Malaysian general election"
+              }
+            ]
+          },
+          "predecessor16": {
+            "text": "Constituency established",
+            "formatting": {
+              "italic": [
+                "Constituency established"
+              ]
+            }
+          },
+          "successor16": {
+            "text": "Adham Baba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adham Baba"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Hishammuddin bin Hussein"
           },
           "birth_date": {
             "text": "August 5, 1961"
@@ -616,7 +1069,7 @@
             ]
           },
           "residence": {
-            "text": "Ampang, Kuala Lumpur, Malaysia",
+            "text": "Ampang, Kuala Lumpur",
             "links": [
               {
                 "text": "Ampang",
@@ -626,10 +1079,6 @@
               {
                 "type": "internal",
                 "page": "Kuala Lumpur"
-              },
-              {
-                "type": "internal",
-                "page": "Malaysia"
               }
             ]
           },
@@ -643,19 +1092,11 @@
             ]
           },
           "otherparty": {
-            "text": "Barisan Nasional (BN)\nPerikatan Nasional (PN)\nMuafakat Nasional (MN)",
+            "text": "Barisan Nasional (BN)",
             "links": [
               {
                 "type": "internal",
                 "page": "Barisan Nasional"
-              },
-              {
-                "type": "internal",
-                "page": "Perikatan Nasional"
-              },
-              {
-                "type": "internal",
-                "page": "Muafakat Nasional"
               }
             ]
           },
@@ -762,29 +1203,6 @@
               }
             ]
           }
-        },
-        {
-          "office1": {
-            "text": "Faction represented in Dewan Rakyat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dewan Rakyat"
-              }
-            ]
-          },
-          "subterm1": {
-            "text": "1995–"
-          },
-          "suboffice1": {
-            "text": "Barisan Nasional",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barisan Nasional"
-              }
-            ]
-          }
         }
       ],
       "references": [
@@ -852,7 +1270,7 @@
         {
           "sentences": [
             {
-              "text": "He attended the Malay College Kuala Kangsar before his father became Deputy Prime Minister in 1973.",
+              "text": "Hishammuddin attended the Malay College Kuala Kangsar before his father became Deputy Prime Minister in 1973.",
               "links": [
                 {
                   "type": "internal",
@@ -866,7 +1284,7 @@
               ]
             },
             {
-              "text": "Upon his father's appointment to the post, he attended St. John's Institution, and then the Alice Smith School, in Kuala Lumpur, before attending the English public school Cheltenham College.",
+              "text": "Upon his father's appointment to the office, he attended St. John's Institution, and then the Alice Smith School, in Kuala Lumpur, before attending the English public school Cheltenham College in Gloucestershire.",
               "links": [
                 {
                   "type": "internal",
@@ -875,6 +1293,10 @@
                 {
                   "type": "internal",
                   "page": "Cheltenham College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gloucestershire"
                 }
               ]
             }
@@ -883,7 +1305,7 @@
         {
           "sentences": [
             {
-              "text": "He graduated with a Bachelor of Laws (LL.B) degree from the University of Wales, Aberystwyth, in 1984.",
+              "text": "Hishammuddin graduated with a Bachelor of Laws (LLB) degree from the University of Wales, Aberystwyth, in 1984.",
               "links": [
                 {
                   "type": "internal",
@@ -896,7 +1318,7 @@
               ]
             },
             {
-              "text": "He also attended the London School of Economics and received a Master of Laws (LL.M) degree in Commercial and Corporate Law in 1988.",
+              "text": "He also attended the London School of Economics and received a Master of Laws (LLM) degree in Commercial and Corporate Law in 1988.",
               "links": [
                 {
                   "type": "internal",
@@ -2582,9 +3004,26 @@
       "templates": [
         {
           "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Hishammuddin Hussein"
+          ],
+          "template": "commons category-inline"
         },
         {
-          "template": "commons category"
+          "template": "malaysian ministers"
         },
         {
           "template": "johor-fedrep"
@@ -2606,6 +3045,17 @@
         },
         {
           "template": "second najib cabinet"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "list": [
+            "Malaysia",
+            "Biography",
+            "Politics"
+          ],
+          "template": "portal bar"
         },
         {
           "template": "authority control"

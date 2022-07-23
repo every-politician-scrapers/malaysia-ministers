@@ -195,26 +195,7 @@
               }
             ]
           },
-          "office1": {
-            "text": "Ministerial roles"
-          },
-          "subterm1": {
-            "text": "2013–2018"
-          },
-          "suboffice1": {
-            "text": "Deputy Minister of Rural and Regional Development",
-            "links": [
-              {
-                "text": "Deputy Minister of Rural and Regional Development",
-                "type": "internal",
-                "page": "Minister of Rural Development (Malaysia)"
-              }
-            ]
-          },
-          "subterm2": {
-            "text": "2020–"
-          },
-          "suboffice2": {
+          "office": {
             "text": "Minister of Domestic Trade and Consumer Affairs",
             "links": [
               {
@@ -224,49 +205,255 @@
               }
             ]
           },
-          "office7": {
-            "text": "Faction represented in Dewan Rakyat",
+          "primeminister": {
+            "text": "Ismail Sabri Yaakob",
             "links": [
               {
                 "type": "internal",
-                "page": "Dewan Rakyat"
+                "page": "Ismail Sabri Yaakob"
               }
             ]
           },
-          "subterm7": {
-            "text": "1999–2018"
-          },
-          "suboffice7": {
-            "text": "Barisan Nasional",
+          "deputy": {
+            "text": "Rosol Wahid",
             "links": [
               {
                 "type": "internal",
-                "page": "Barisan Nasional"
+                "page": "Rosol Wahid"
               }
             ]
           },
-          "subterm8": {
-            "text": "2018",
-            "number": 2018
+          "term_start": {
+            "text": "30 August 2021"
           },
-          "suboffice8": {
-            "text": "Parti Pesaka Bumiputera Bersatu",
+          "predecessor": {
+            "text": "Himself",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
+          },
+          "monarch": {
+            "text": "Abdullah",
             "links": [
               {
+                "text": "Abdullah",
+                "type": "internal",
+                "page": "Abdullah of Pahang"
+              }
+            ]
+          },
+          "constituency": {
+            "text": "Kapit",
+            "links": [
+              {
+                "text": "Kapit",
+                "type": "internal",
+                "page": "Kapit (federal constituency)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Muhyiddin Yassin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhyiddin Yassin"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Rosol Wahid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rosol Wahid"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 March 2020"
+          },
+          "term_end1": {
+            "text": "16 August 2021"
+          },
+          "predecessor1": {
+            "text": "Saifuddin Nasution Ismail",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saifuddin Nasution Ismail"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Abdullah",
+            "links": [
+              {
+                "text": "Abdullah",
+                "type": "internal",
+                "page": "Abdullah of Pahang"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Kapit",
+            "links": [
+              {
+                "text": "Kapit",
+                "type": "internal",
+                "page": "Kapit (federal constituency)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Minister of Rural and Regional Development",
+            "links": [
+              {
+                "text": "Deputy Minister of Rural and Regional Development",
+                "type": "internal",
+                "page": "Minister of Rural and Regional Development (Malaysia)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Najib Razak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najib Razak"
+              }
+            ]
+          },
+          "minister2": {
+            "text": "Shafie Apdal\n(2013–2015)\nIsmail Sabri Yaakob\n(2015–2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shafie Apdal"
+              },
+              {
+                "type": "internal",
+                "page": "Ismail Sabri Yaakob"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "16 May 2013"
+          },
+          "term_end2": {
+            "text": "9 May 2018"
+          },
+          "alongside2": {
+            "text": "Ahmad Jazlan Yaakub (2015–2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmad Jazlan Yaakub"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Hasan Malek",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hasan Malek"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Sivarasa Rasiah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sivarasa Rasiah"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Abdul Halim\n(2013-2016)\nMuhammad V\n(2016-2018)",
+            "links": [
+              {
+                "text": "Abdul Halim",
+                "type": "internal",
+                "page": "Abdul Halim of Kedah"
+              },
+              {
+                "text": "Muhammad V",
+                "type": "internal",
+                "page": "Muhammad V of Kelantan"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Kapit"
+          },
+          "constituency_mp3": {
+            "text": "Kapit",
+            "links": [
+              {
+                "text": "Kapit",
+                "type": "internal",
+                "page": "Kapit (federal constituency)"
+              }
+            ]
+          },
+          "parliament3": {
+            "text": "Malaysian"
+          },
+          "term_start3": {
+            "text": "29 November 1999"
+          },
+          "majority3": {
+            "text": "11,016 (1999)\nUnopposed (2004)\nUnopposed (2008)\n9,731 (2013)\n10,479 (2018)",
+            "links": [
+              {
+                "text": "1999",
+                "type": "internal",
+                "page": "1999 Malaysian general election"
+              },
+              {
+                "text": "2004",
+                "type": "internal",
+                "page": "2004 Malaysian general election"
+              },
+              {
+                "text": "2008",
+                "type": "internal",
+                "page": "2008 Malaysian general election"
+              },
+              {
+                "text": "2013",
+                "type": "internal",
+                "page": "2013 Malaysian general election"
+              },
+              {
+                "text": "2018",
+                "type": "internal",
+                "page": "2018 Malaysian general election"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Unopposed",
+                "Unopposed"
+              ]
+            }
+          },
+          "predecessor3": {
+            "text": "James Jimbun Pungga \n(PBB–BN)",
+            "links": [
+              {
+                "text": "PBB",
                 "type": "internal",
                 "page": "Parti Pesaka Bumiputera Bersatu"
-              }
-            ]
-          },
-          "subterm9": {
-            "text": "2018–"
-          },
-          "suboffice9": {
-            "text": "Gabungan Parti Sarawak",
-            "links": [
+              },
               {
+                "text": "BN",
                 "type": "internal",
-                "page": "Gabungan Parti Sarawak"
+                "page": "Barisan Nasional"
               }
             ]
           },
